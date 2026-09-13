@@ -154,7 +154,7 @@ cd your-project
 kiro
 ```
 
-Kiro reads [steering files](/docs/steering/) from your project's `.kiro/` directory — the same concept as `CLAUDE.md` — so if you've already set up project instructions with OpenCode, most of your configuration transfers over.
+Kiro reads [steering files](https://kiro.dev/docs/steering/) from your project's `.kiro/` directory — the same concept as `CLAUDE.md` — so if you've already set up project instructions with OpenCode, most of your configuration transfers over.
 
 ---
 

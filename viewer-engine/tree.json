@@ -1,0 +1,729 @@
+{
+  "root": "kuantumlab_ai_learning_path",
+  "tree": {
+    "type": "dir",
+    "name": "kuantumlab_ai_learning_path",
+    "path": "",
+    "open": true,
+    "children": [
+      {
+        "type": "dir",
+        "name": "docs",
+        "path": "docs",
+        "open": false,
+        "children": [
+          {
+            "type": "file",
+            "name": "ai_agents_learning_path.md",
+            "path": "docs/ai_agents_learning_path.md"
+          },
+          {
+            "type": "file",
+            "name": "assignment_solutions.md",
+            "path": "docs/assignment_solutions.md"
+          }
+        ]
+      },
+      {
+        "type": "dir",
+        "name": "learning-path",
+        "path": "learning-path",
+        "open": false,
+        "children": [
+          {
+            "type": "dir",
+            "name": "01-prerequisites",
+            "path": "learning-path/01-prerequisites",
+            "open": false,
+            "children": [
+              {
+                "type": "dir",
+                "name": "assets",
+                "path": "learning-path/01-prerequisites/assets",
+                "open": false,
+                "children": [
+                  {
+                    "type": "file",
+                    "name": "git-logo.png",
+                    "path": "learning-path/01-prerequisites/assets/git-logo.png"
+                  },
+                  {
+                    "type": "file",
+                    "name": "llm-model.png",
+                    "path": "learning-path/01-prerequisites/assets/llm-model.png"
+                  },
+                  {
+                    "type": "file",
+                    "name": "markdown-logo.png",
+                    "path": "learning-path/01-prerequisites/assets/markdown-logo.png"
+                  },
+                  {
+                    "type": "file",
+                    "name": "nodejs-logo.png",
+                    "path": "learning-path/01-prerequisites/assets/nodejs-logo.png"
+                  },
+                  {
+                    "type": "file",
+                    "name": "python-logo.png",
+                    "path": "learning-path/01-prerequisites/assets/python-logo.png"
+                  },
+                  {
+                    "type": "file",
+                    "name": "terminal.png",
+                    "path": "learning-path/01-prerequisites/assets/terminal.png"
+                  },
+                  {
+                    "type": "file",
+                    "name": "vscode.png",
+                    "path": "learning-path/01-prerequisites/assets/vscode.png"
+                  }
+                ]
+              },
+              {
+                "type": "file",
+                "name": "01-bootstrapping.md",
+                "path": "learning-path/01-prerequisites/01-bootstrapping.md"
+              },
+              {
+                "type": "file",
+                "name": "02-llms-work.md",
+                "path": "learning-path/01-prerequisites/02-llms-work.md"
+              },
+              {
+                "type": "file",
+                "name": "03-markdown.md",
+                "path": "learning-path/01-prerequisites/03-markdown.md"
+              },
+              {
+                "type": "file",
+                "name": "index.md",
+                "path": "learning-path/01-prerequisites/index.md"
+              }
+            ]
+          },
+          {
+            "type": "dir",
+            "name": "02-opencode-foundation",
+            "path": "learning-path/02-opencode-foundation",
+            "open": false,
+            "children": [
+              {
+                "type": "dir",
+                "name": "assets",
+                "path": "learning-path/02-opencode-foundation/assets",
+                "open": false,
+                "children": [
+                  {
+                    "type": "file",
+                    "name": "opencode.png",
+                    "path": "learning-path/02-opencode-foundation/assets/opencode.png"
+                  }
+                ]
+              },
+              {
+                "type": "file",
+                "name": "01-what-is-opencode.md",
+                "path": "learning-path/02-opencode-foundation/01-what-is-opencode.md"
+              },
+              {
+                "type": "file",
+                "name": "02-how-it-works.md",
+                "path": "learning-path/02-opencode-foundation/02-how-it-works.md"
+              },
+              {
+                "type": "file",
+                "name": "03-basic-commands.md",
+                "path": "learning-path/02-opencode-foundation/03-basic-commands.md"
+              },
+              {
+                "type": "file",
+                "name": "04-first-workflow.md",
+                "path": "learning-path/02-opencode-foundation/04-first-workflow.md"
+              },
+              {
+                "type": "file",
+                "name": "index.md",
+                "path": "learning-path/02-opencode-foundation/index.md"
+              }
+            ]
+          },
+          {
+            "type": "dir",
+            "name": "03-prompt-engineering",
+            "path": "learning-path/03-prompt-engineering",
+            "open": false,
+            "children": [
+              {
+                "type": "dir",
+                "name": "assets",
+                "path": "learning-path/03-prompt-engineering/assets",
+                "open": false,
+                "children": []
+              },
+              {
+                "type": "file",
+                "name": "01-writing-prompts.md",
+                "path": "learning-path/03-prompt-engineering/01-writing-prompts.md"
+              },
+              {
+                "type": "file",
+                "name": "02-common-failures.md",
+                "path": "learning-path/03-prompt-engineering/02-common-failures.md"
+              },
+              {
+                "type": "file",
+                "name": "03-prompt-libraries.md",
+                "path": "learning-path/03-prompt-engineering/03-prompt-libraries.md"
+              },
+              {
+                "type": "file",
+                "name": "index.md",
+                "path": "learning-path/03-prompt-engineering/index.md"
+              }
+            ]
+          },
+          {
+            "type": "dir",
+            "name": "04-skills-mcp",
+            "path": "learning-path/04-skills-mcp",
+            "open": false,
+            "children": [
+              {
+                "type": "dir",
+                "name": "assets",
+                "path": "learning-path/04-skills-mcp/assets",
+                "open": false,
+                "children": [
+                  {
+                    "type": "file",
+                    "name": "mcp-architecture.png",
+                    "path": "learning-path/04-skills-mcp/assets/mcp-architecture.png"
+                  },
+                  {
+                    "type": "file",
+                    "name": "mcp-diagram.png",
+                    "path": "learning-path/04-skills-mcp/assets/mcp-diagram.png"
+                  },
+                  {
+                    "type": "file",
+                    "name": "mcp-logo.png",
+                    "path": "learning-path/04-skills-mcp/assets/mcp-logo.png"
+                  }
+                ]
+              },
+              {
+                "type": "file",
+                "name": "01-skills.md",
+                "path": "learning-path/04-skills-mcp/01-skills.md"
+              },
+              {
+                "type": "file",
+                "name": "02-mcp-servers.md",
+                "path": "learning-path/04-skills-mcp/02-mcp-servers.md"
+              },
+              {
+                "type": "file",
+                "name": "03-installing-mcps.md",
+                "path": "learning-path/04-skills-mcp/03-installing-mcps.md"
+              },
+              {
+                "type": "file",
+                "name": "04-custom-mcp-servers.md",
+                "path": "learning-path/04-skills-mcp/04-custom-mcp-servers.md"
+              },
+              {
+                "type": "file",
+                "name": "05-extensions-lsp.md",
+                "path": "learning-path/04-skills-mcp/05-extensions-lsp.md"
+              },
+              {
+                "type": "file",
+                "name": "index.md",
+                "path": "learning-path/04-skills-mcp/index.md"
+              }
+            ]
+          },
+          {
+            "type": "dir",
+            "name": "05-agent-architecture",
+            "path": "learning-path/05-agent-architecture",
+            "open": false,
+            "children": [
+              {
+                "type": "dir",
+                "name": "assets",
+                "path": "learning-path/05-agent-architecture/assets",
+                "open": false,
+                "children": [
+                  {
+                    "type": "file",
+                    "name": "agent-architecture.png",
+                    "path": "learning-path/05-agent-architecture/assets/agent-architecture.png"
+                  },
+                  {
+                    "type": "file",
+                    "name": "agent-architecture.svg",
+                    "path": "learning-path/05-agent-architecture/assets/agent-architecture.svg"
+                  },
+                  {
+                    "type": "file",
+                    "name": "agent-loop.png",
+                    "path": "learning-path/05-agent-architecture/assets/agent-loop.png"
+                  },
+                  {
+                    "type": "file",
+                    "name": "agent-loop.svg",
+                    "path": "learning-path/05-agent-architecture/assets/agent-loop.svg"
+                  },
+                  {
+                    "type": "file",
+                    "name": "decision-framework.png",
+                    "path": "learning-path/05-agent-architecture/assets/decision-framework.png"
+                  },
+                  {
+                    "type": "file",
+                    "name": "decision-framework.svg",
+                    "path": "learning-path/05-agent-architecture/assets/decision-framework.svg"
+                  }
+                ]
+              },
+              {
+                "type": "file",
+                "name": "01-how-agents-built.md",
+                "path": "learning-path/05-agent-architecture/01-how-agents-built.md"
+              },
+              {
+                "type": "file",
+                "name": "02-custom-agents.md",
+                "path": "learning-path/05-agent-architecture/02-custom-agents.md"
+              },
+              {
+                "type": "file",
+                "name": "03-agents-vs-skills.md",
+                "path": "learning-path/05-agent-architecture/03-agents-vs-skills.md"
+              },
+              {
+                "type": "file",
+                "name": "index.md",
+                "path": "learning-path/05-agent-architecture/index.md"
+              }
+            ]
+          },
+          {
+            "type": "dir",
+            "name": "06-use-cases",
+            "path": "learning-path/06-use-cases",
+            "open": false,
+            "children": [
+              {
+                "type": "dir",
+                "name": "assets",
+                "path": "learning-path/06-use-cases/assets",
+                "open": false,
+                "children": []
+              },
+              {
+                "type": "file",
+                "name": "01-local-machine.md",
+                "path": "learning-path/06-use-cases/01-local-machine.md"
+              },
+              {
+                "type": "file",
+                "name": "02-web-research-report.md",
+                "path": "learning-path/06-use-cases/02-web-research-report.md"
+              },
+              {
+                "type": "file",
+                "name": "03-gmail-research.md",
+                "path": "learning-path/06-use-cases/03-gmail-research.md"
+              },
+              {
+                "type": "file",
+                "name": "04-deploy-website.md",
+                "path": "learning-path/06-use-cases/04-deploy-website.md"
+              },
+              {
+                "type": "file",
+                "name": "05-capstone.md",
+                "path": "learning-path/06-use-cases/05-capstone.md"
+              },
+              {
+                "type": "file",
+                "name": "index.md",
+                "path": "learning-path/06-use-cases/index.md"
+              }
+            ]
+          },
+          {
+            "type": "dir",
+            "name": "07-assignments",
+            "path": "learning-path/07-assignments",
+            "open": false,
+            "children": [
+              {
+                "type": "dir",
+                "name": "assets",
+                "path": "learning-path/07-assignments/assets",
+                "open": false,
+                "children": []
+              },
+              {
+                "type": "file",
+                "name": "01-10-summary.md",
+                "path": "learning-path/07-assignments/01-10-summary.md"
+              },
+              {
+                "type": "file",
+                "name": "index.md",
+                "path": "learning-path/07-assignments/index.md"
+              }
+            ]
+          },
+          {
+            "type": "dir",
+            "name": "08-omp",
+            "path": "learning-path/08-omp",
+            "open": false,
+            "children": [
+              {
+                "type": "dir",
+                "name": "assets",
+                "path": "learning-path/08-omp/assets",
+                "open": false,
+                "children": [
+                  {
+                    "type": "file",
+                    "name": "omp.png",
+                    "path": "learning-path/08-omp/assets/omp.png"
+                  }
+                ]
+              },
+              {
+                "type": "file",
+                "name": "01-why-omp.md",
+                "path": "learning-path/08-omp/01-why-omp.md"
+              },
+              {
+                "type": "file",
+                "name": "02-installing.md",
+                "path": "learning-path/08-omp/02-installing.md"
+              },
+              {
+                "type": "file",
+                "name": "03-config.md",
+                "path": "learning-path/08-omp/03-config.md"
+              },
+              {
+                "type": "file",
+                "name": "04-advanced-features.md",
+                "path": "learning-path/08-omp/04-advanced-features.md"
+              },
+              {
+                "type": "file",
+                "name": "05-building-agents.md",
+                "path": "learning-path/08-omp/05-building-agents.md"
+              },
+              {
+                "type": "file",
+                "name": "index.md",
+                "path": "learning-path/08-omp/index.md"
+              }
+            ]
+          },
+          {
+            "type": "dir",
+            "name": "09-other-agents",
+            "path": "learning-path/09-other-agents",
+            "open": false,
+            "children": [
+              {
+                "type": "dir",
+                "name": "assets",
+                "path": "learning-path/09-other-agents/assets",
+                "open": false,
+                "children": [
+                  {
+                    "type": "file",
+                    "name": "aider.png",
+                    "path": "learning-path/09-other-agents/assets/aider.png"
+                  },
+                  {
+                    "type": "file",
+                    "name": "cline.png",
+                    "path": "learning-path/09-other-agents/assets/cline.png"
+                  },
+                  {
+                    "type": "file",
+                    "name": "crewai.png",
+                    "path": "learning-path/09-other-agents/assets/crewai.png"
+                  },
+                  {
+                    "type": "file",
+                    "name": "deepseek.png",
+                    "path": "learning-path/09-other-agents/assets/deepseek.png"
+                  },
+                  {
+                    "type": "file",
+                    "name": "gemini.png",
+                    "path": "learning-path/09-other-agents/assets/gemini.png"
+                  },
+                  {
+                    "type": "file",
+                    "name": "langgraph.png",
+                    "path": "learning-path/09-other-agents/assets/langgraph.png"
+                  }
+                ]
+              },
+              {
+                "type": "file",
+                "name": "01-deepseek-harness.md",
+                "path": "learning-path/09-other-agents/01-deepseek-harness.md"
+              },
+              {
+                "type": "file",
+                "name": "02-other-agents.md",
+                "path": "learning-path/09-other-agents/02-other-agents.md"
+              },
+              {
+                "type": "file",
+                "name": "index.md",
+                "path": "learning-path/09-other-agents/index.md"
+              }
+            ]
+          },
+          {
+            "type": "dir",
+            "name": "10-paid-agents",
+            "path": "learning-path/10-paid-agents",
+            "open": false,
+            "children": [
+              {
+                "type": "dir",
+                "name": "assets",
+                "path": "learning-path/10-paid-agents/assets",
+                "open": false,
+                "children": [
+                  {
+                    "type": "file",
+                    "name": "claude-code.png",
+                    "path": "learning-path/10-paid-agents/assets/claude-code.png"
+                  }
+                ]
+              },
+              {
+                "type": "file",
+                "name": "01-installing-paid.md",
+                "path": "learning-path/10-paid-agents/01-installing-paid.md"
+              },
+              {
+                "type": "file",
+                "name": "02-when-to-upgrade.md",
+                "path": "learning-path/10-paid-agents/02-when-to-upgrade.md"
+              },
+              {
+                "type": "file",
+                "name": "index.md",
+                "path": "learning-path/10-paid-agents/index.md"
+              }
+            ]
+          },
+          {
+            "type": "dir",
+            "name": "11-free-tier-llms",
+            "path": "learning-path/11-free-tier-llms",
+            "open": false,
+            "children": [
+              {
+                "type": "dir",
+                "name": "assets",
+                "path": "learning-path/11-free-tier-llms/assets",
+                "open": false,
+                "children": [
+                  {
+                    "type": "file",
+                    "name": "providers.png",
+                    "path": "learning-path/11-free-tier-llms/assets/providers.png"
+                  }
+                ]
+              },
+              {
+                "type": "file",
+                "name": "01-free-providers.md",
+                "path": "learning-path/11-free-tier-llms/01-free-providers.md"
+              },
+              {
+                "type": "file",
+                "name": "02-using-free-llms.md",
+                "path": "learning-path/11-free-tier-llms/02-using-free-llms.md"
+              },
+              {
+                "type": "file",
+                "name": "index.md",
+                "path": "learning-path/11-free-tier-llms/index.md"
+              }
+            ]
+          },
+          {
+            "type": "dir",
+            "name": "12-local-llms",
+            "path": "learning-path/12-local-llms",
+            "open": false,
+            "children": [
+              {
+                "type": "dir",
+                "name": "assets",
+                "path": "learning-path/12-local-llms/assets",
+                "open": false,
+                "children": [
+                  {
+                    "type": "file",
+                    "name": "llamacpp.png",
+                    "path": "learning-path/12-local-llms/assets/llamacpp.png"
+                  },
+                  {
+                    "type": "file",
+                    "name": "ollama.png",
+                    "path": "learning-path/12-local-llms/assets/ollama.png"
+                  }
+                ]
+              },
+              {
+                "type": "file",
+                "name": "01-ollama.md",
+                "path": "learning-path/12-local-llms/01-ollama.md"
+              },
+              {
+                "type": "file",
+                "name": "02-llama-cpp.md",
+                "path": "learning-path/12-local-llms/02-llama-cpp.md"
+              },
+              {
+                "type": "file",
+                "name": "03-local-apis.md",
+                "path": "learning-path/12-local-llms/03-local-apis.md"
+              },
+              {
+                "type": "file",
+                "name": "04-local-with-agents.md",
+                "path": "learning-path/12-local-llms/04-local-with-agents.md"
+              },
+              {
+                "type": "file",
+                "name": "05-omniroute.md",
+                "path": "learning-path/12-local-llms/05-omniroute.md"
+              },
+              {
+                "type": "file",
+                "name": "index.md",
+                "path": "learning-path/12-local-llms/index.md"
+              }
+            ]
+          },
+          {
+            "type": "dir",
+            "name": "13-project-ideas",
+            "path": "learning-path/13-project-ideas",
+            "open": false,
+            "children": [
+              {
+                "type": "dir",
+                "name": "assets",
+                "path": "learning-path/13-project-ideas/assets",
+                "open": false,
+                "children": []
+              },
+              {
+                "type": "file",
+                "name": "01-online-platform.md",
+                "path": "learning-path/13-project-ideas/01-online-platform.md"
+              },
+              {
+                "type": "file",
+                "name": "02-mobile-app.md",
+                "path": "learning-path/13-project-ideas/02-mobile-app.md"
+              },
+              {
+                "type": "file",
+                "name": "03-local-tool.md",
+                "path": "learning-path/13-project-ideas/03-local-tool.md"
+              },
+              {
+                "type": "file",
+                "name": "04-linkedin.md",
+                "path": "learning-path/13-project-ideas/04-linkedin.md"
+              },
+              {
+                "type": "file",
+                "name": "index.md",
+                "path": "learning-path/13-project-ideas/index.md"
+              }
+            ]
+          },
+          {
+            "type": "dir",
+            "name": "appendix",
+            "path": "learning-path/appendix",
+            "open": false,
+            "children": [
+              {
+                "type": "dir",
+                "name": "assets",
+                "path": "learning-path/appendix/assets",
+                "open": false,
+                "children": []
+              },
+              {
+                "type": "file",
+                "name": "index.md",
+                "path": "learning-path/appendix/index.md"
+              }
+            ]
+          },
+          {
+            "type": "dir",
+            "name": "shared",
+            "path": "learning-path/shared",
+            "open": false,
+            "children": [
+              {
+                "type": "dir",
+                "name": "assets",
+                "path": "learning-path/shared/assets",
+                "open": false,
+                "children": []
+              },
+              {
+                "type": "dir",
+                "name": "templates",
+                "path": "learning-path/shared/templates",
+                "open": false,
+                "children": [
+                  {
+                    "type": "file",
+                    "name": "page-template.md",
+                    "path": "learning-path/shared/templates/page-template.md"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "file",
+            "name": "index.md",
+            "path": "learning-path/index.md"
+          }
+        ]
+      },
+      {
+        "type": "file",
+        "name": "LICENSE",
+        "path": "LICENSE"
+      },
+      {
+        "type": "file",
+        "name": "README.md",
+        "path": "README.md"
+      }
+    ]
+  }
+}

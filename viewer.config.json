@@ -1,0 +1,12 @@
+{
+  "title": "Kuantum Lab — AI Learning Path",
+  "contentRoot": ".",
+  "defaultFile": "learning-path/index.md",
+  "exclude": [
+    ".git",
+    "node_modules",
+    "viewer-engine",
+    "index.html",
+    "viewer.config.json"
+  ]
+}

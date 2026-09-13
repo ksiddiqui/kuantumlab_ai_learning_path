@@ -37,7 +37,7 @@ Each tool wraps a different model family and targets a slightly different workfl
 | **Installation** | `curl -fsSL https://claude.ai/install.sh \| bash` | `curl -fsSL https://chatgpt.com/codex/install.sh \| sh` | `curl -fsSL https://cli.kiro.dev/install \| bash` |
 | **Primary surface** | Terminal, VS Code, Desktop app, Web, JetBrains | Terminal (CLI) | Terminal (CLI) + IDE (macOS/Windows/Linux) |
 | **Third-party routing** | AWS Bedrock, Google Vertex AI, Microsoft Foundry | API key only | Built-in model selection (Auto), supports many providers |
-| **Spec-driven dev** | Plan mode + sub-agents | Agentic loops in terminal | Yes — [specs](/docs/specs/) turn prompts into structured plans |
+| **Spec-driven dev** | Plan mode + sub-agents | Agentic loops in terminal | Yes — [specs](https://kiro.dev/docs/specs/) turn prompts into structured plans |
 | **Enterprise auth** | SSO (Business/Enterprise plans) | API key | IAM + SSO (built on AWS infrastructure) |
 | **Cost controls** | Team spend limits, usage analytics | API budget limits | Credit-based pricing with pre-paid overages |
 | **Best for** | Deep codebase tasks, enterprise workflows, CI/CD review | Long runs, OpenAI model access, familiar API-style auth | Spec-driven development, property-based testing, parallel agents |
