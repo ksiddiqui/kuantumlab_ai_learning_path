@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="380" viewBox="0 0 800 380">
+  <rect width="800" height="380" fill="#ffffff"/>
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-opacity="0.15"/>
+    </filter>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#4b5563"/>
+    </marker>
+    <linearGradient id="gBlue" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#3b82f6"/><stop offset="100%" stop-color="#60a5fa"/></linearGradient>
+    <linearGradient id="gGreen" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#10b981"/><stop offset="100%" stop-color="#34d399"/></linearGradient>
+    <linearGradient id="gAmber" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#f59e0b"/><stop offset="100%" stop-color="#fbbf24"/></linearGradient>
+    <linearGradient id="gPurple" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#8b5cf6"/><stop offset="100%" stop-color="#a78bfa"/></linearGradient>
+  </defs>
+
+  <text x="400" y="24" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#1f2937">Augmented LLM Architecture</text>
+  <text x="400" y="40" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#6b7280">How an AI agent extends a plain language model</text>
+
+  <!-- LLM Core -->
+  <rect x="300" y="70" width="200" height="60" rx="10" fill="url(#gBlue)" filter="url(#shadow)" stroke="#1e40af" stroke-width="2"/>
+  <text x="400" y="92" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#fff">LLM (the Brain)</text>
+  <text x="400" y="108" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#fff">reasoning, planning, decisions</text>
+
+  <!-- Memory -->
+  <rect x="100" y="150" width="140" height="50" rx="8" fill="url(#gGreen)" filter="url(#shadow)" stroke="#065f44" stroke-width="1"/>
+  <text x="170" y="178" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#fff">Memory</text>
+  <text x="170" y="192" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#fff">short-term + long-term</text>
+
+  <!-- Retrieval -->
+  <rect x="300" y="150" width="200" height="50" rx="8" fill="url(#gAmber)" filter="url(#shadow)" stroke="#92400e" stroke-width="1"/>
+  <text x="400" y="178" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#78350f">Retrieval</text>
+  <text x="400" y="192" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#78350f">search, fetch, RAG</text>
+
+  <!-- Tools -->
+  <rect x="560" y="150" width="140" height="50" rx="8" fill="url(#gPurple)" filter="url(#shadow)" stroke="#5b21b6" stroke-width="1"/>
+  <text x="630" y="178" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#fff">Tools</text>
+  <text x="630" y="192" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#fff">API calls, code, browser</text>
+
+  <!-- Arrows from augmentations to LLM -->
+  <line x1="170" y1="200" x2="300" y2="100" stroke="#4b5563" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="400" y1="200" x2="400" y2="100" stroke="#4b5563" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="630" y1="200" x2="500" y2="100" stroke="#4b5563" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Loop arrow -->
+  <path d="M500 100 C 550 60, 500 50, 450 70" fill="none" stroke="#4b5563" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Output -->
+  <rect x="300" y="290" width="200" height="50" rx="10" fill="#f1f5f9" stroke="#64748b" stroke-width="2" filter="url(#shadow)"/>
+  <text x="400" y="315" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#334155">Output</text>
+  <text x="400" y="330" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#475569">text, tool call, or action</text>
+
+  <line x1="400" y1="130" x2="400" y2="290" stroke="#4b5563" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Title -->
+  <text x="400" y="24" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#1f2937">Agent = LLM + Memory + Retrieval + Tools</text>
+</svg>
