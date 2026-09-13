@@ -1,4 +1,4 @@
-# Page Template for AI Agents Learning Path
+# Page Template for Learning Agent-Driven Automation: A 40-Hour Path Built Entirely on Free Tiers
 
 > This is a template that content creators (subagents) should follow.
 > Copy this structure for each new page.

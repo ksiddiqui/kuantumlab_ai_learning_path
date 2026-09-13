@@ -1,4 +1,4 @@
-# AI Agents Learning Path
+# Learning Agent-Driven Automation: A 40-Hour Path Built Entirely on Free Tiers
 
 > **Your journey from zero to building AI agents that can research, code, scrape, and deploy — using only free and open-source tools.**
 
@@ -17,7 +17,7 @@ This learning path teaches you how to use **AI agents** — tools that can take 
 
 - Basic Python knowledge (variables, functions, HTTP requests)
 - A computer running Windows, macOS, or Linux
-- 30–40 hours to complete the full path
+- 40 hours to complete the full path
 
 No computer science degree required.
 

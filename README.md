@@ -1,4 +1,4 @@
-# AI Agents Learning Path
+# Learning Agent-Driven Automation: A 40-Hour Path Built Entirely on Free Tiers
 
 A complete, beginner-friendly learning path for training fresh graduates to use **open-source AI agents** for web scraping, deep research, content creation, testing, and autonomous coding tasks.
 
@@ -43,6 +43,10 @@ A complete, beginner-friendly learning path for training fresh graduates to use 
 - **VS Code** — Free code editor
 - **Ollama** — Local LLM runtime
 - **OpenRouter** — 100+ models, free tier
+
+## Author
+
+**Khurram Siddiqui** — [Quick profile](https://github.com/ksiddiqui/ksiddiqui/blob/main/README.md)
 
 ## License
 

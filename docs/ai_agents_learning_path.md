@@ -1,4 +1,4 @@
-# AI Agents Learning Path — Topic Tree
+# Learning Agent-Driven Automation: A 40-Hour Path Built Entirely on Free Tiers — Topic Tree
 
 > **Audience:** Fresh graduates with basic Python + Node.js + computer literacy, no CS degree required.
 > **Goal:** Train learners to use open-source & low-cost AI agents for web scraping, deep research, content creation, testing, and autonomous coding tasks.
