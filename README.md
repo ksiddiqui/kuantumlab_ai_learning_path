@@ -46,7 +46,7 @@ A complete, beginner-friendly learning path for training fresh graduates to use 
 
 ## Author
 
-**Khurram Siddiqui** — [Quick profile](https://github.com/ksiddiqui/ksiddiqui/blob/main/README.md)
+**Kashif Ali Siddiqui** — [Quick profile](https://github.com/ksiddiqui/ksiddiqui/blob/main/README.md)
 
 ## License
 

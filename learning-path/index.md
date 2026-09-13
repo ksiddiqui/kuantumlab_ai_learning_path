@@ -91,3 +91,11 @@ Each section has:
 
 👉 [Begin: Section 0 — Prerequisites & Setup](01-prerequisites/index.md)
 
+
+---
+
+## 👤 About the Author
+
+This learning path is authored and maintained by **Kashif Ali Siddiqui**. He designed it for fresh graduates who want practical, job-ready AI automation skills without a CS degree — the same way he teaches his own teams.
+
+👉 [Quick profile](https://github.com/ksiddiqui/ksiddiqui/blob/main/README.md)
