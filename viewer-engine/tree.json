@@ -8,6 +8,27 @@
     "children": [
       {
         "type": "dir",
+        "name": ".github",
+        "path": ".github",
+        "open": false,
+        "children": [
+          {
+            "type": "dir",
+            "name": "workflows",
+            "path": ".github/workflows",
+            "open": false,
+            "children": [
+              {
+                "type": "file",
+                "name": "deploy-pages.yml",
+                "path": ".github/workflows/deploy-pages.yml"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "dir",
         "name": "docs",
         "path": "docs",
         "open": false,
@@ -713,6 +734,16 @@
             "path": "learning-path/index.md"
           }
         ]
+      },
+      {
+        "type": "file",
+        "name": ".gitignore",
+        "path": ".gitignore"
+      },
+      {
+        "type": "file",
+        "name": ".nojekyll",
+        "path": ".nojekyll"
       },
       {
         "type": "file",
