@@ -4,7 +4,7 @@
 
 # Summary: All 10 Assignments
 
-> A quick-reference overview of every assignment in this learning path. Each entry shows the **problem**, the **goal**, and a **hint** to get you started. Full step-by-step solutions are in the [Assignment Solutions Guide](../../docs/assignment_solutions.md).
+> A quick-reference overview of every assignment in this learning path. Each entry shows the **problem**, the **goal**, and a **hint** to get you started. Full step-by-step solutions are in the [Assignment Solutions Guide](solutions.md).
 
 ---
 
@@ -16,7 +16,7 @@
 | **Goal** | Run the script, find and fix all three bugs so it handles edge cases and invalid data gracefully. |
 | **Hint** | Run the script first and read the traceback. Check: (1) Is the average using the right variable? (2) What happens with an empty list? (3) Is JSON loading wrapped in error handling? |
 
-**Solution:** [Assignment 1 in Solution Guide](../../docs/assignment_solutions.md#assignment-1-fix-the-agent)
+**Solution:** [Assignment 1 in Solution Guide](solutions.md#assignment-1-fix-the-agent)
 
 ---
 
@@ -28,7 +28,7 @@
 | **Goal** | Install and configure 3 MCP servers (e.g., filesystem, web search, and one more of your choice) so they work in OpenCode. |
 | **Hint** | Install and test one MCP at a time. Each needs its own authentication — check the GitHub README for exact config syntax. |
 
-**Solution:** [Assignment 2 in Solution Guide](../../docs/assignment_solutions.md#assignment-2-skill-installation)
+**Solution:** [Assignment 2 in Solution Guide](solutions.md#assignment-2-skill-installation)
 
 ---
 
@@ -40,7 +40,7 @@
 | **Goal** | Create a `prompts/` directory with 5 XML-structured templates: research, code review, email response, data analysis, and content rewriting. |
 | **Hint** | Use XML tags (`<task>`, `<instructions>`, `<constraints>`) to make prompts scannable. Always specify the output format. Version-control your prompts. |
 
-**Solution:** [Assignment 3 in Solution Guide](../../docs/assignment_solutions.md#assignment-3-custom-prompt-library)
+**Solution:** [Assignment 3 in Solution Guide](solutions.md#assignment-3-custom-prompt-library)
 
 ---
 
@@ -52,7 +52,7 @@
 | **Goal** | Build a pipeline that searches for "AI agent news", extracts content from the top results, summarizes each, and saves to `docs/ai_agent_news.md`. |
 | **Hint** | Chain tools step-by-step: search → read → extract → summarize → write. Save intermediate results so you can resume if a step fails. |
 
-**Solution:** [Assignment 4 in Solution Guide](../../docs/assignment_solutions.md#assignment-4-web-scraping-pipeline)
+**Solution:** [Assignment 4 in Solution Guide](solutions.md#assignment-4-web-scraping-pipeline)
 
 ---
 
@@ -64,7 +64,7 @@
 | **Goal** | Use the Gmail MCP to search your inbox for emails on a topic, summarize key points from each, and save a structured report. |
 | **Hint** | Use Gmail search syntax: `subject:"topic" after:2024/01/01`. Keep OAuth credentials secure — never commit to git. Start with a small time window. |
 
-**Solution:** [Assignment 5 in Solution Guide](../../docs/assignment_solutions.md#assignment-5-email-research-report)
+**Solution:** [Assignment 5 in Solution Guide](solutions.md#assignment-5-email-research-report)
 
 ---
 
@@ -76,7 +76,7 @@
 | **Goal** | Run system commands through an agent, collect resource data, and compile a markdown health report with OK/Warning/Critical ratings. |
 | **Hint** | Use `2>/dev/null` to suppress permission errors. Format output as markdown tables. Add safety checks before destructive commands. |
 
-**Solution:** [Assignment 6 in Solution Guide](../../docs/assignment_solutions.md#assignment-6-local-environment-audit)
+**Solution:** [Assignment 6 in Solution Guide](solutions.md#assignment-6-local-environment-audit)
 
 ---
 
@@ -88,7 +88,7 @@
 | **Goal** | Research a topic thoroughly, synthesize findings into a 5-section report (Executive Summary, Current Landscape, Key Technologies, Limitations, Future Outlook), and export to PDF. |
 | **Hint** | Read sources in batches of 5 across multiple iterations. Use a "source tracker" table to avoid duplicating effort. PDF generation is a separate step — use `pandoc` or `wkhtmltopdf`. |
 
-**Solution:** [Assignment 7 in Solution Guide](../../docs/assignment_solutions.md#assignment-7-research-report-generator)
+**Solution:** [Assignment 7 in Solution Guide](solutions.md#assignment-7-research-report-generator)
 
 ---
 
@@ -100,7 +100,7 @@
 | **Goal** | Create a responsive single-page site (hero, projects, contact form) with dark/light mode toggle, then deploy it to a live URL using GitHub Pages or Cloudflare Pages. |
 | **Hint** | Test locally with `npx serve .` first. GitHub Pages is free but static-only. Use Formspree for backend-free contact forms. Add `<meta name="viewport">` for mobile. |
 
-**Solution:** [Assignment 8 in Solution Guide](../../docs/assignment_solutions.md#assignment-8-deploy-a-microsite)
+**Solution:** [Assignment 8 in Solution Guide](solutions.md#assignment-8-deploy-a-microsite)
 
 ---
 
@@ -112,7 +112,7 @@
 | **Goal** | Build a Python MCP server that wraps a public API (e.g., JokeAPI), register it in OpenCode config, and verify it responds. |
 | **Hint** | The MCP SDK handles the boilerplate — you just define your tools. Use async handlers for API calls. Handle API errors gracefully. Test locally before registering globally. |
 
-**Solution:** [Assignment 9 in Solution Guide](../../docs/assignment_solutions.md#assignment-9-custom-mcp-server)
+**Solution:** [Assignment 9 in Solution Guide](solutions.md#assignment-9-custom-mcp-server)
 
 ---
 
@@ -124,7 +124,7 @@
 | **Goal** | Create a Researcher agent and a Writer agent with distinct personas, then orchestrate them to produce a multi-page analysis on a topic of your choice. |
 | **Hint** | Each agent needs a narrow, well-defined role. Pass data between agents via files (not shared state). Test each agent independently first. Document what each agent does. |
 
-**Solution:** [Assignment 10 in Solution Guide](../../docs/assignment_solutions.md#assignment-10-multi-agent-challenge)
+**Solution:** [Assignment 10 in Solution Guide](solutions.md#assignment-10-multi-agent-challenge)
 
 ---
 
@@ -149,7 +149,7 @@
 
 1. **Pick an assignment** — read its problem, goal, and hint above
 2. **Try it yourself** — work through the task without looking at solutions
-3. **Check the solution** if you get stuck — each link goes directly to the relevant section in the [Assignment Solutions Guide](../../docs/assignment_solutions.md)
+3. **Check the solution** if you get stuck — each link goes directly to the relevant section in the [Assignment Solutions Guide](solutions.md)
 4. **Compare approaches** — review the "Lessons Learned" in each solution to see what best practices you might have missed
 
 > 🔍 **Navigation:** Use [Ctrl+F] (or [Cmd+F]) to search for a specific assignment number or keyword in this page.
@@ -173,4 +173,4 @@ These outputs feed directly into the portfolio projects in [Section 12 — Proje
 
 ---
 
-← [Back to Section Index](index.md) | [Assignment Solutions Guide](../../docs/assignment_solutions.md) | [← Back to Main Index](../index.md)
+← [Back to Section Index](index.md) | [Assignment Solutions Guide](solutions.md) | [← Back to Main Index](../index.md)

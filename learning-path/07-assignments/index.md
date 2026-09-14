@@ -4,7 +4,7 @@
 
 # Assignments
 
-> Complete 10 hands-on exercises that reinforce everything you've learned about AI agents, MCP servers, prompt engineering, and deployment. Each assignment links to a step-by-step solution in the [Assignment Solutions guide](../../docs/assignment_solutions.md).
+> Complete 10 hands-on exercises that reinforce everything you've learned about AI agents, MCP servers, prompt engineering, and deployment. Each assignment links to a step-by-step solution in the [Assignment Solutions guide](solutions.md).
 
 ## 📺 Recommended Videos
 
@@ -24,7 +24,7 @@ This section contains 10 assignments that each take **1–2 hours** to complete.
 - **Web deployment** with GitHub Pages (Assignment 8)
 - **Multi-agent collaboration** (Assignment 10)
 
-> 💡 **Pro tip:** Try each assignment on your own first. If you get stuck, read the corresponding section in [Assignment Solutions](../../docs/assignment_solutions.md) for guided walkthroughs.
+> 💡 **Pro tip:** Try each assignment on your own first. If you get stuck, read the corresponding section in [Assignment Solutions](solutions.md) for guided walkthroughs.
 
 ## Assignments Overview
 
@@ -53,7 +53,7 @@ This section contains 10 assignments that each take **1–2 hours** to complete.
 
 **Hint:** Run the script first to see the actual error. Then check: (1) Is the average calculated correctly? (2) What happens with an empty list? (3) What happens if the JSON file is malformed?
 
-**Solution:** See [Assignment Solutions — Assignment 1](../../docs/assignment_solutions.md#assignment-1-fix-the-agent)
+**Solution:** See [Assignment Solutions — Assignment 1](solutions.md#assignment-1-fix-the-agent)
 
 ---
 
@@ -67,7 +67,7 @@ This section contains 10 assignments that each take **1–2 hours** to complete.
 
 **Hint:** Each MCP needs its own authentication method. Install and test one at a time before combining. Check each MCP's GitHub README for config examples.
 
-**Solution:** See [Assignment Solutions — Assignment 2](../../docs/assignment_solutions.md#assignment-2-skill-installation)
+**Solution:** See [Assignment Solutions — Assignment 2](solutions.md#assignment-2-skill-installation)
 
 ---
 
@@ -81,7 +81,7 @@ This section contains 10 assignments that each take **1–2 hours** to complete.
 
 **Hint:** Use XML tags to make prompts scannable. Always specify the output format explicitly. Version-control your prompts like code — they evolve over time.
 
-**Solution:** See [Assignment Solutions — Assignment 3](../../docs/assignment_solutions.md#assignment-3-custom-prompt-library)
+**Solution:** See [Assignment Solutions — Assignment 3](solutions.md#assignment-3-custom-prompt-library)
 
 ---
 
@@ -95,7 +95,7 @@ This section contains 10 assignments that each take **1–2 hours** to complete.
 
 **Hint:** Chain tools step-by-step: search → read → extract → write. Check URL accessibility before scraping. Save intermediate results so you can resume if a step fails.
 
-**Solution:** See [Assignment Solutions — Assignment 4](../../docs/assignment_solutions.md#assignment-4-web-scraping-pipeline)
+**Solution:** See [Assignment Solutions — Assignment 4](solutions.md#assignment-4-web-scraping-pipeline)
 
 ---
 
@@ -109,7 +109,7 @@ This section contains 10 assignments that each take **1–2 hours** to complete.
 
 **Hint:** Use Gmail search syntax like `subject:"topic" after:2024/01/01`. Keep OAuth credentials secure — never commit them to git. Start with a small time window before expanding.
 
-**Solution:** See [Assignment Solutions — Assignment 5](../../docs/assignment_solutions.md#assignment-5-email-research-report)
+**Solution:** See [Assignment Solutions — Assignment 5](solutions.md#assignment-5-email-research-report)
 
 ---
 
@@ -123,7 +123,7 @@ This section contains 10 assignments that each take **1–2 hours** to complete.
 
 **Hint:** Use `2>/dev/null` to suppress permission errors. Format output as markdown tables. Add safety checks before running destructive commands like `rm` or `brew cleanup`.
 
-**Solution:** See [Assignment Solutions — Assignment 6](../../docs/assignment_solutions.md#assignment-6-local-environment-audit)
+**Solution:** See [Assignment Solutions — Assignment 6](solutions.md#assignment-6-local-environment-audit)
 
 ---
 
@@ -137,7 +137,7 @@ This section contains 10 assignments that each take **1–2 hours** to complete.
 
 **Hint:** Read sources in batches of 5 across multiple iterations. Use a "source tracker" table to avoid duplicating effort. PDF generation is a separate step — use `pandoc` or `wkhtmltopdf`.
 
-**Solution:** See [Assignment Solutions — Assignment 7](../../docs/assignment_solutions.md#assignment-7-research-report-generator)
+**Solution:** See [Assignment Solutions — Assignment 7](solutions.md#assignment-7-research-report-generator)
 
 ---
 
@@ -151,7 +151,7 @@ This section contains 10 assignments that each take **1–2 hours** to complete.
 
 **Hint:** GitHub Pages is truly free but limited to static files. Use Formspree for backend-free forms. Add `<meta name="viewport">` for mobile. Test locally with `npx serve .` before deploying.
 
-**Solution:** See [Assignment Solutions — Assignment 8](../../docs/assignment_solutions.md#assignment-8-deploy-a-microsite)
+**Solution:** See [Assignment Solutions — Assignment 8](solutions.md#assignment-8-deploy-a-microsite)
 
 ---
 
@@ -165,7 +165,7 @@ This section contains 10 assignments that each take **1–2 hours** to complete.
 
 **Hint:** The MCP SDK handles the boilerplate — you just define your tools. Use async handlers for API calls. Always handle API errors gracefully. Test locally before registering globally.
 
-**Solution:** See [Assignment Solutions — Assignment 9](../../docs/assignment_solutions.md#assignment-9-custom-mcp-server)
+**Solution:** See [Assignment Solutions — Assignment 9](solutions.md#assignment-9-custom-mcp-server)
 
 ---
 
@@ -179,7 +179,7 @@ This section contains 10 assignments that each take **1–2 hours** to complete.
 
 **Hint:** Each agent should have a narrow, well-defined role. Pass data between agents via files (more reliable than shared state). Test each agent independently first. Document what each agent does for future reuse.
 
-**Solution:** See [Assignment Solutions — Assignment 10](../../docs/assignment_solutions.md#assignment-10-multi-agent-challenge)
+**Solution:** See [Assignment Solutions — Assignment 10](solutions.md#assignment-10-multi-agent-challenge)
 
 ---
 
@@ -188,7 +188,7 @@ This section contains 10 assignments that each take **1–2 hours** to complete.
 1. **Complete each assignment** — try on your own first, then check solutions if stuck
 2. **Save your outputs** — each assignment should produce files in your working directory
 3. **Document what you learned** — add a short note at the end of each task
-4. **Review solutions** — read the [full solution guide](../../docs/assignment_solutions.md) to compare approaches
+4. **Review solutions** — read the [full solution guide](solutions.md) to compare approaches
 
 > 📝 **Bonus:** The last 3 sections of the learning path (OMP, other agents, free-tier LLMs) build directly on skills from these assignments. Keep your outputs handy.
 
@@ -202,11 +202,11 @@ This section contains 10 assignments that each take **1–2 hours** to complete.
 
 ## 📚 Recommended Reading
 
-1. [Assignment Solutions Guide](../../docs/assignment_solutions.md) — Full step-by-step solutions for all 10 assignments
+1. [Assignment Solutions Guide](solutions.md) — Full step-by-step solutions for all 10 assignments
 2. [OpenCode Documentation](https://docs.opencode.com) — Official command reference and MCP setup guide
 3. [Model Context Protocol](https://modelcontextprotocol.io) — MCP specification and server registry
 4. [GitHub Pages Docs](https://docs.github.com/pages) — Deployment and custom domain configuration
 
 ---
 
-← [Back to Main Index](../index.md) | [Assignment Solutions Guide](../../docs/assignment_solutions.md) | [Next Section: Oh My Pi →](../08-omp/index.md)
+← [Back to Main Index](../index.md) | [Assignment Solutions Guide](solutions.md) | [Next Section: Oh My Pi →](../08-omp/index.md)

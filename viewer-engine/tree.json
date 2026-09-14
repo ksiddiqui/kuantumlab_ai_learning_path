@@ -358,6 +358,11 @@
                 "type": "file",
                 "name": "index.md",
                 "path": "learning-path/07-assignments/index.md"
+              },
+              {
+                "type": "file",
+                "name": "solutions.md",
+                "path": "learning-path/07-assignments/solutions.md"
               }
             ]
           },
