@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Previous Section](../07-assignments/index.md) | [01. Why OMP →](01-why-omp.md)
+← [Previous Section](../07-assignments/00-index.md) | [01. Why OMP →](01-why-omp.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section 7: Oh My Pi (OMP)](index.md)
+[← Main Index](../00-index.md) → [Section 7: Oh My Pi (OMP)](00-index.md)
 
 ---
 
@@ -56,13 +56,13 @@ OMP has one hard dependency: a modern Node.js runtime (v18+). It runs on macOS, 
 
 ## What's Next?
 
-- **Section 6 — Assignments** (`../07-assignments/index.md`): Ten structured exercises to reinforce what you've learned
-- **Section 8 — Other Open-Source Agents** (`../09-other-agents/index.md`): Explore DeepSeek Harness, Aider, Cline, and more
-- **Section 12 — Project Ideas** (`../13-project-ideas/index.md`): Portfolio-worthy challenges to keep building
+- **Section 6 — Assignments** (`../07-assignments/00-index.md`): Ten structured exercises to reinforce what you've learned
+- **Section 8 — Other Open-Source Agents** (`../09-other-agents/00-index.md`): Explore DeepSeek Harness, Aider, Cline, and more
+- **Section 12 — Project Ideas** (`../13-project-ideas/00-index.md`): Portfolio-worthy challenges to keep building
 
 ---
 
 <!-- Navigation: Bottom -->
-← [Previous Section: Assignments](../07-assignments/index.md) | [Next Section: Other Agents →](../09-other-agents/index.md)
+← [Previous Section: Assignments](../07-assignments/00-index.md) | [Next Section: Other Agents →](../09-other-agents/00-index.md)
 
-[← Main Index](../index.md) | [Section Index](index.md)
+[← Main Index](../00-index.md) | [Section Index](00-index.md)

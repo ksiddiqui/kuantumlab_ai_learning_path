@@ -50,7 +50,7 @@ Before this section, your AI agent was limited to whatever built-in tools came p
 
 ## Prerequisites
 
-- A working AI coding agent (OpenCode or Oh My Pi installed) — see [Section 1](../02-opencode-foundation/index.md) and [Section 7](../08-omp/index.md)
+- A working AI coding agent (OpenCode or Oh My Pi installed) — see [Section 1](../02-opencode-foundation/00-index.md) and [Section 7](../08-omp/00-index.md)
 - Node.js v20+ installed (`node --version`)
 - Python 3.11+ installed (`python --version`)
 - A GitHub account (free tier is fine)
@@ -59,4 +59,4 @@ Before this section, your AI agent was limited to whatever built-in tools came p
 
 ## Navigation
 
-[← Main Index](../index.md) | [← Section 2 — Prompt Engineering](../03-prompt-engineering/index.md) | [Section 5 — Agent Architecture →](../05-agent-architecture/index.md)
+[← Main Index](../00-index.md) | [← Section 2 — Prompt Engineering](../03-prompt-engineering/00-index.md) | [Section 5 — Agent Architecture →](../05-agent-architecture/00-index.md)

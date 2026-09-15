@@ -1,6 +1,6 @@
-← [Back to Section Index](index.md) | [Next Topic →](02-web-research-report.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-web-research-report.md)
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Local Machine Environment Management**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Local Machine Environment Management**
 
 ---
 
@@ -35,7 +35,7 @@ These videos show the agents and CLI tools you will use for local machine manage
 ## Before You Start
 
 **Setup required:**
-- OpenCode or OMP installed (see [Section 1](../02-opencode-foundation/index.md))
+- OpenCode or OMP installed (see [Section 1](../02-opencode-foundation/00-index.md))
 - Bash MCP enabled (OpenCode ships with Bash built-in)
 - Filesystem MCP enabled (built-in or via `mcp-filesystem`)
 
@@ -155,6 +155,6 @@ Install Python 3.12 using the system package manager. Show me the exact commands
 
 ---
 
-← [Back to Section Index](index.md) | [Next Topic →](02-web-research-report.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-web-research-report.md)
 
-[← Main Index](../index.md) | [Section Index](index.md)
+[← Main Index](../00-index.md) | [Section Index](00-index.md)

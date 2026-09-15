@@ -1,10 +1,10 @@
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](02-llama-cpp.md) | [Next Topic →](04-local-with-agents.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](02-llama-cpp.md) | [Next Topic →](04-local-with-agents.md)
 
 ---
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Local APIs**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Local APIs**
 
 ---
 
@@ -181,6 +181,6 @@ curl http://localhost:1234/v1/chat/completions \
 
 ---
 
-← [Back to Section Index](index.md) | [Next Topic →](04-local-with-agents.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](04-local-with-agents.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

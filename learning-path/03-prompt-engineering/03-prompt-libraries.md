@@ -1,6 +1,6 @@
-← [Back to Section Index](index.md) | ← [Previous Topic](02-common-failures.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](02-common-failures.md)
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Prompt Libraries & Version Control**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Prompt Libraries & Version Control**
 
 # Prompt Libraries & Version Control
 
@@ -298,6 +298,6 @@ jobs:
 
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](02-common-failures.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](02-common-failures.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

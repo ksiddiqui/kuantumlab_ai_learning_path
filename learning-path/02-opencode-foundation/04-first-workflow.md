@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Back to Section Index](index.md) | ← [Previous Topic](03-basic-commands.md) | [Next Topic →](index.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](03-basic-commands.md) | [Next Topic →](00-index.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section Index](index.md) → **First Workflow**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **First Workflow**
 
 ---
 
@@ -236,4 +236,4 @@ Create a password for yourself on [opencode.ai/zen](https://opencode.ai/zen) if 
 ---
 
 <!-- Navigation: Bottom -->
-← [Back to Section Index](index.md) | [03. Basic Commands](03-basic-commands.md) | [Next Section: Prompt Engineering →](../03-prompt-engineering/index.md)
+← [Back to Section Index](00-index.md) | [03. Basic Commands](03-basic-commands.md) | [Next Section: Prompt Engineering →](../03-prompt-engineering/00-index.md)

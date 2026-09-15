@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Previous Section](../08-omp/index.md) | [01. DeepSeek Harness →](01-deepseek-harness.md)
+← [Previous Section](../08-omp/00-index.md) | [01. DeepSeek Harness →](01-deepseek-harness.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section 8: Other Open-Source Agents](index.md)
+[← Main Index](../00-index.md) → [Section 8: Other Open-Source Agents](00-index.md)
 
 ---
 
@@ -62,9 +62,9 @@ Understanding these trade-offs lets you pick the right tool for each job instead
 ---
 
 <!-- Navigation: Bottom -->
-← [Previous Section](../08-omp/index.md) | [01. DeepSeek Harness →](01-deepseek-harness.md)
+← [Previous Section](../08-omp/00-index.md) | [01. DeepSeek Harness →](01-deepseek-harness.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)
 
 ---
 

@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Back to Section Index](index.md) | ← [Previous Topic](index.md) | [Next Topic →](02-how-it-works.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](00-index.md) | [Next Topic →](02-how-it-works.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section Index](index.md) → **What Is OpenCode?**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **What Is OpenCode?**
 
 ---
 
@@ -209,4 +209,4 @@ This scans your project and creates an `AGENTS.md` file that documents the proje
 ---
 
 <!-- Navigation: Bottom -->
-← [Back to Section Index](index.md) | [02. How It Works →](02-how-it-works.md)
+← [Back to Section Index](00-index.md) | [02. How It Works →](02-how-it-works.md)

@@ -1,6 +1,6 @@
-← [Back to Main Index](../index.md) | [← Previous Section: Use Cases](../06-use-cases/index.md) | [Next Section: Oh My Pi →](../08-omp/index.md)
+← [Back to Main Index](../00-index.md) | [← Previous Section: Use Cases](../06-use-cases/00-index.md) | [Next Section: Oh My Pi →](../08-omp/00-index.md)
 
-[← Main Index](../index.md) → [Section 6: Assignments](index.md) → **Current Page**
+[← Main Index](../00-index.md) → [Section 6: Assignments](00-index.md) → **Current Page**
 
 # Assignments
 
@@ -209,4 +209,4 @@ This section contains 10 assignments that each take **1–2 hours** to complete.
 
 ---
 
-← [Back to Main Index](../index.md) | [Assignment Solutions Guide](solutions.md) | [Next Section: Oh My Pi →](../08-omp/index.md)
+← [Back to Main Index](../00-index.md) | [Assignment Solutions Guide](solutions.md) | [Next Section: Oh My Pi →](../08-omp/00-index.md)

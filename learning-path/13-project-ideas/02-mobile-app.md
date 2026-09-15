@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Back to Section Index](index.md) | ← [Previous Topic](01-online-platform.md) | [Next Topic →](03-local-tool.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](01-online-platform.md) | [Next Topic →](03-local-tool.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section 12: Project Ideas](index.md) → **Personal Knowledge Assistant**
+[← Main Index](../00-index.md) → [Section 12: Project Ideas](00-index.md) → **Personal Knowledge Assistant**
 
 # Personal Knowledge Assistant + Study Buddy AI
 
@@ -210,6 +210,6 @@ Deploy the standalone app with Expo Application Services (EAS) or stick to the E
 ---
 
 <!-- Navigation: Bottom -->
-← [Back to Section Index](index.md) | ← [Previous Topic](01-online-platform.md) | [Next Topic →](03-local-tool.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](01-online-platform.md) | [Next Topic →](03-local-tool.md)
 
-[← Main Index](../index.md) | [Section Index](index.md)
+[← Main Index](../00-index.md) | [Section Index](00-index.md)

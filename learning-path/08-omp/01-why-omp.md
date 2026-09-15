@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Back to Section Index](index.md) | [02. Installing OMP →](02-installing.md)
+← [Back to Section Index](00-index.md) | [02. Installing OMP →](02-installing.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section 7: Oh My Pi (OMP)](index.md) → [01. Why OMP?](01-why-omp.md)
+[← Main Index](../00-index.md) → [Section 7: Oh My Pi (OMP)](00-index.md) → [01. Why OMP?](01-why-omp.md)
 
 ---
 
@@ -138,4 +138,4 @@ omp usage                        # Show usage report
 ---
 
 <!-- Navigation: Bottom -->
-← [Back to Section Index](index.md) | [02. Installing OMP →](02-installing.md)
+← [Back to Section Index](00-index.md) | [02. Installing OMP →](02-installing.md)

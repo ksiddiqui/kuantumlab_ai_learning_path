@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-[← Previous: 03. Configuration](./03-config.md) | ← [Back to Section Index](index.md) | [05. Building Agents →](05-building-agents.md)
+[← Previous: 03. Configuration](./03-config.md) | ← [Back to Section Index](00-index.md) | [05. Building Agents →](05-building-agents.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section 7: Oh My Pi (OMP)](index.md) → [04. Advanced Features](04-advanced-features.md)
+[← Main Index](../00-index.md) → [Section 7: Oh My Pi (OMP)](00-index.md) → [04. Advanced Features](04-advanced-features.md)
 
 ---
 
@@ -380,4 +380,4 @@ watchdog.severity: high   # Auto-intervention
 ---
 
 <!-- Navigation: Bottom -->
-[← Previous: 03. Configuration](./03-config.md) | ← [Back to Section Index](index.md) | [05. Building Agents →](05-building-agents.md)
+[← Previous: 03. Configuration](./03-config.md) | ← [Back to Section Index](00-index.md) | [05. Building Agents →](05-building-agents.md)

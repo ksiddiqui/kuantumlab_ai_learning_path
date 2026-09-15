@@ -1,6 +1,6 @@
-← [Back to Section Index](index.md) | ← [Previous Topic: The Five Free-Tier LLM Providers](01-free-providers.md) | [Next Section: Local LLM Engines →](../12-local-llms/index.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic: The Five Free-Tier LLM Providers](01-free-providers.md) | [Next Section: Local LLM Engines →](../12-local-llms/00-index.md)
 
-[← Main Index](../index.md) → [Section 10: Free-Tier LLM Providers](index.md) → **Using Free LLMs: API Keys, Model Selection & Cost**
+[← Main Index](../00-index.md) → [Section 10: Free-Tier LLM Providers](00-index.md) → **Using Free LLMs: API Keys, Model Selection & Cost**
 
 # Using Free LLMs: API Keys, Model Selection & Cost
 
@@ -285,6 +285,6 @@ print(client.chat.completions.create(
 
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic: The Five Free-Tier LLM Providers](01-free-providers.md) | [Next Section: Local LLM Engines →](../12-local-llms/index.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic: The Five Free-Tier LLM Providers](01-free-providers.md) | [Next Section: Local LLM Engines →](../12-local-llms/00-index.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

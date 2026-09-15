@@ -1,6 +1,6 @@
-← [Back to Section Index](index.md) | [← Previous Topic: Installing Paid Agents](01-installing-paid.md) | [Next Section: Free-Tier LLMs →](../11-free-tier-llms/index.md)
+← [Back to Section Index](00-index.md) | [← Previous Topic: Installing Paid Agents](01-installing-paid.md) | [Next Section: Free-Tier LLMs →](../11-free-tier-llms/00-index.md)
 
-[← Main Index](../index.md) → [Section 9: Paid Agent Options](index.md) → **When to Upgrade**
+[← Main Index](../00-index.md) → [Section 9: Paid Agent Options](00-index.md) → **When to Upgrade**
 
 # When to Upgrade
 
@@ -162,6 +162,6 @@ Use this quick decision tree to pick your upgrade path:
 
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](01-installing-paid.md) | [Next Section: Free-Tier LLMs →](../11-free-tier-llms/index.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](01-installing-paid.md) | [Next Section: Free-Tier LLMs →](../11-free-tier-llms/00-index.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

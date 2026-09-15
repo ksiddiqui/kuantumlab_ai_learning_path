@@ -1,10 +1,10 @@
 ---
 
-← [Back to Section Index](index.md) | [Next Topic →](02-custom-agents.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-custom-agents.md)
 
 ---
 
-[← Main Index](../index.md) → [Section Index](index.md) → **How Agents Are Built**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **How Agents Are Built**
 
 ---
 
@@ -200,6 +200,6 @@ Different frameworks implement the same loop with different trade-offs. Here is 
 
 ---
 
-← [Back to Section Index](index.md) | [Next Topic →](02-custom-agents.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-custom-agents.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

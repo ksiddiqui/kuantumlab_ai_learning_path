@@ -1,6 +1,6 @@
-← [Back to Section Index](index.md) | [← Back to Main Index](../index.md)
+← [Back to Section Index](00-index.md) | [← Back to Main Index](../00-index.md)
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Summary of All 10 Assignments**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Summary of All 10 Assignments**
 
 # Summary: All 10 Assignments
 
@@ -169,8 +169,8 @@ After completing all 10 assignments, you'll have built:
 - A custom MCP server wrapping a public API
 - A multi-agent research + writing pipeline
 
-These outputs feed directly into the portfolio projects in [Section 12 — Project Ideas](../13-project-ideas/index.md).
+These outputs feed directly into the portfolio projects in [Section 12 — Project Ideas](../13-project-ideas/00-index.md).
 
 ---
 
-← [Back to Section Index](index.md) | [Assignment Solutions Guide](solutions.md) | [← Back to Main Index](../index.md)
+← [Back to Section Index](00-index.md) | [Assignment Solutions Guide](solutions.md) | [← Back to Main Index](../00-index.md)

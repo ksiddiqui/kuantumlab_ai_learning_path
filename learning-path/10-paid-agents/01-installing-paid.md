@@ -1,6 +1,6 @@
-← [Back to Section Index](index.md) | [Next Topic →](02-when-to-upgrade.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-when-to-upgrade.md)
 
-[← Main Index](../index.md) → [Section 9: Paid Agent Options](index.md) → **Installing Paid Agents**
+[← Main Index](../00-index.md) → [Section 9: Paid Agent Options](00-index.md) → **Installing Paid Agents**
 
 # Installing Paid Agents
 
@@ -217,6 +217,6 @@ Each agent should report its version and exit cleanly. If any command fails with
 
 ---
 
-← [Back to Section Index](index.md) | [Next Topic →](02-when-to-upgrade.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-when-to-upgrade.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

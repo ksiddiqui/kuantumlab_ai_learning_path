@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Back to Section Index](index.md) | ← [Previous Topic](01-skills.md) | [Next Topic →](03-installing-mcps.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](01-skills.md) | [Next Topic →](03-installing-mcps.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section Index](index.md) → **MCP Servers**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **MCP Servers**
 
 ---
 
@@ -264,6 +264,6 @@ npm install -g @modelcontextprotocol/server-brave-search
 ---
 
 <!-- Navigation: Bottom -->
-← [Back to Section Index](index.md) | ← [Previous Topic](01-skills.md) | [Next Topic →](03-installing-mcps.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](01-skills.md) | [Next Topic →](03-installing-mcps.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

@@ -1,6 +1,6 @@
-← [Back to Section Index](index.md) | ← [Previous Topic](01-writing-prompts.md) | [Next Topic →](03-prompt-libraries.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](01-writing-prompts.md) | [Next Topic →](03-prompt-libraries.md)
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Common Prompt Failures**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Common Prompt Failures**
 
 # Common Prompt Failures
 
@@ -322,6 +322,6 @@ The agent guessed instead of stopping.
 
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](01-writing-prompts.md) | [Next Topic →](03-prompt-libraries.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](01-writing-prompts.md) | [Next Topic →](03-prompt-libraries.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

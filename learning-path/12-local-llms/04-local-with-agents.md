@@ -1,10 +1,10 @@
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](03-local-apis.md) | [Next Topic →](05-omniroute.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](03-local-apis.md) | [Next Topic →](05-omniroute.md)
 
 ---
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Local with Agents**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Local with Agents**
 
 ---
 
@@ -223,6 +223,6 @@ Once you have pulled models with Ollama, you can run agents completely offline:
 
 ---
 
-← [Back to Section Index](index.md) | [Next Topic →](05-omniroute.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](05-omniroute.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

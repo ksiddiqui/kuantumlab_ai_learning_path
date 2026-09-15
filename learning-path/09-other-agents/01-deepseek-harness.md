@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Back to Section Index](index.md) | ← [8. Other Open-Source Agents](index.md) | [Next Topic →](02-other-agents.md)
+← [Back to Section Index](00-index.md) | ← [8. Other Open-Source Agents](00-index.md) | [Next Topic →](02-other-agents.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section 8: Other Open-Source Agents](index.md) → **DeepSeek Harness**
+[← Main Index](../00-index.md) → [Section 8: Other Open-Source Agents](00-index.md) → **DeepSeek Harness**
 
 ---
 
@@ -169,6 +169,6 @@ pnpm dsh web
 ---
 
 <!-- Navigation: Bottom -->
-← [Back to Section Index](index.md) | ← [8. Other Open-Source Agents](index.md) | [Next Topic →](02-other-agents.md)
+← [Back to Section Index](00-index.md) | ← [8. Other Open-Source Agents](00-index.md) | [Next Topic →](02-other-agents.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

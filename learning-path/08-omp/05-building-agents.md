@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-[← Previous: 04. Advanced Features](./04-advanced-features.md) | ← [Back to Section Index](index.md)
+[← Previous: 04. Advanced Features](./04-advanced-features.md) | ← [Back to Section Index](00-index.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section 7: Oh My Pi (OMP)](index.md) → [05. Building Agents](05-building-agents.md)
+[← Main Index](../00-index.md) → [Section 7: Oh My Pi (OMP)](00-index.md) → [05. Building Agents](05-building-agents.md)
 
 ---
 
@@ -481,9 +481,9 @@ prewalk: ["src/**/*"] # Optional: preload files
 ---
 
 <!-- Navigation: Bottom -->
-[← Previous: 04. Advanced Features](./04-advanced-features.md) | ← [Back to Section Index](index.md)
+[← Previous: 04. Advanced Features](./04-advanced-features.md) | ← [Back to Section Index](00-index.md)
 
-[← Main Index](../index.md) | [Section Index](index.md)
+[← Main Index](../00-index.md) | [Section Index](00-index.md)
 
 ---
 
@@ -491,4 +491,4 @@ prewalk: ["src/**/*"] # Optional: preload files
 
 You've learned how to install OMP, configure global and project-level settings, write hooks, use magic keywords, dispatch subagents, track costs, and build custom agents from YAML.
 
-**Next:** [Section 8 — Other Open-Source Agents](../09-other-agents/index.md)
+**Next:** [Section 8 — Other Open-Source Agents](../09-other-agents/00-index.md)

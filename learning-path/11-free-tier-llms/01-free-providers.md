@@ -1,6 +1,6 @@
-← [Back to Section Index](index.md) | [Next Topic →](02-using-free-llms.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-using-free-llms.md)
 
-[← Main Index](../index.md) → [Section 10: Free-Tier LLM Providers](index.md) → **The Five Free-Tier LLM Providers**
+[← Main Index](../00-index.md) → [Section 10: Free-Tier LLM Providers](00-index.md) → **The Five Free-Tier LLM Providers**
 
 # The Five Free-Tier LLM Providers
 
@@ -147,6 +147,6 @@ Together is a self-hosting and inference partner with 100+ open-weight models (L
 
 ---
 
-← [Back to Section Index](index.md) | [Next Topic →](02-using-free-llms.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-using-free-llms.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

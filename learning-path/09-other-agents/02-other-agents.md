@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Back to Section Index](index.md) | ← [01. DeepSeek Harness](01-deepseek-harness.md) | [Next Section →](../10-paid-agents/index.md)
+← [Back to Section Index](00-index.md) | ← [01. DeepSeek Harness](01-deepseek-harness.md) | [Next Section →](../10-paid-agents/00-index.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section 8: Other Open-Source Agents](index.md) → **Other Notable Agents**
+[← Main Index](../00-index.md) → [Section 8: Other Open-Source Agents](00-index.md) → **Other Notable Agents**
 
 ---
 
@@ -525,6 +525,6 @@ gemini --help             # See all options
 ---
 
 <!-- Navigation: Bottom -->
-← [Back to Section Index](index.md) | ← [01. DeepSeek Harness](01-deepseek-harness.md) | [Next Section →](../10-paid-agents/index.md)
+← [Back to Section Index](00-index.md) | ← [01. DeepSeek Harness](01-deepseek-harness.md) | [Next Section →](../10-paid-agents/00-index.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

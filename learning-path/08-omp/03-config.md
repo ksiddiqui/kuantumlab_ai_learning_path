@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-[← Previous: 02. Installing OMP](./02-installing.md) | ← [Back to Section Index](index.md) | [04. Advanced Features →](04-advanced-features.md)
+[← Previous: 02. Installing OMP](./02-installing.md) | ← [Back to Section Index](00-index.md) | [04. Advanced Features →](04-advanced-features.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section 7: Oh My Pi (OMP)](index.md) → [03. Configuration](03-config.md)
+[← Main Index](../00-index.md) → [Section 7: Oh My Pi (OMP)](00-index.md) → [03. Configuration](03-config.md)
 
 ---
 
@@ -449,4 +449,4 @@ omp --provider openrouter --model google/gemini-2.0-flash --config ./custom.yml
 ---
 
 <!-- Navigation: Bottom -->
-[← Previous: 02. Installing OMP](./02-installing.md) | ← [Back to Section Index](index.md) | [04. Advanced Features →](04-advanced-features.md)
+[← Previous: 02. Installing OMP](./02-installing.md) | ← [Back to Section Index](00-index.md) | [04. Advanced Features →](04-advanced-features.md)

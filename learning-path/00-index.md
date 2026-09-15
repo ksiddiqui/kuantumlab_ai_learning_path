@@ -27,20 +27,20 @@ No computer science degree required.
 
 | Section | Title | Time | Key Skills |
 |---|---|---|---|
-| [0. Prerequisites](01-prerequisites/index.md) | Environment Setup, LLM Basics, Markdown | 3–4h | Terminal, Python, Git, Node.js, Markdown |
-| [1. OpenCode Foundation](02-opencode-foundation/index.md) | First AI Agent ($10/month) | 3–4h | OpenCode install, commands, first workflow |
-| [2. Prompt Engineering](03-prompt-engineering/index.md) | Writing Prompts Agents Can Act On | 2–3h | Prompt structure, XML tags, templates |
-| [3. Skills & MCP Tools](04-skills-mcp/index.md) | Connecting Tools to Agents | 4–5h | MCP servers, custom skills, LSP, extensions |
-| [4. Agent Architecture](05-agent-architecture/index.md) | How Agents Are Built | 3–4h | Agent loop, memory, planning, personas |
-| [5. Use-Case Walkthroughs](06-use-cases/index.md) | Hands-On Projects | 6–8h | Local management, research reports, email, websites |
-| [6. Assignments](07-assignments/index.md) | Practice Exercises (10) | 10–12h | Debugging, MCP setup, report generation, deployment |
-| [7. Oh My Pi (OMP)](08-omp/index.md) | Advanced Agent (Free/Open-Source) | 4–5h | Global config, hooks, multi-agent, cost tracking |
-| [8. Other Open-Source Agents](09-other-agents/index.md) | DeepSeek, Aider, Cline, Gemini CLI | 2–3h | Tool comparison, alternatives |
-| [9. Paid Agent Options](10-paid-agents/index.md) | Claude Code, Codex, Kiro | 1–2h | Cost analysis, when to upgrade |
-| [10. Free-Tier LLM Providers](11-free-tier-llms/index.md) | OpenRouter, HuggingFace, DeepSeek | 2–3h | API setup, free credits, model selection |
-| [11. Local LLM Engines](12-local-llms/index.md) | Ollama, llama.cpp, OmniRoute | 4–5h | Local inference, quantization, offline agents |
-| [12. Project Ideas](13-project-ideas/index.md) | Portfolio-Worthy Challenges | 20–30h | Capstone projects, LinkedIn content |
-| [Appendix](appendix/index.md) | Resources, Glossary, Troubleshooting | — | Reference materials |
+| [0. Prerequisites](01-prerequisites/00-index.md) | Environment Setup, LLM Basics, Markdown | 3–4h | Terminal, Python, Git, Node.js, Markdown |
+| [1. OpenCode Foundation](02-opencode-foundation/00-index.md) | First AI Agent ($10/month) | 3–4h | OpenCode install, commands, first workflow |
+| [2. Prompt Engineering](03-prompt-engineering/00-index.md) | Writing Prompts Agents Can Act On | 2–3h | Prompt structure, XML tags, templates |
+| [3. Skills & MCP Tools](04-skills-mcp/00-index.md) | Connecting Tools to Agents | 4–5h | MCP servers, custom skills, LSP, extensions |
+| [4. Agent Architecture](05-agent-architecture/00-index.md) | How Agents Are Built | 3–4h | Agent loop, memory, planning, personas |
+| [5. Use-Case Walkthroughs](06-use-cases/00-index.md) | Hands-On Projects | 6–8h | Local management, research reports, email, websites |
+| [6. Assignments](07-assignments/00-index.md) | Practice Exercises (10) | 10–12h | Debugging, MCP setup, report generation, deployment |
+| [7. Oh My Pi (OMP)](08-omp/00-index.md) | Advanced Agent (Free/Open-Source) | 4–5h | Global config, hooks, multi-agent, cost tracking |
+| [8. Other Open-Source Agents](09-other-agents/00-index.md) | DeepSeek, Aider, Cline, Gemini CLI | 2–3h | Tool comparison, alternatives |
+| [9. Paid Agent Options](10-paid-agents/00-index.md) | Claude Code, Codex, Kiro | 1–2h | Cost analysis, when to upgrade |
+| [10. Free-Tier LLM Providers](11-free-tier-llms/00-index.md) | OpenRouter, HuggingFace, DeepSeek | 2–3h | API setup, free credits, model selection |
+| [11. Local LLM Engines](12-local-llms/00-index.md) | Ollama, llama.cpp, OmniRoute | 4–5h | Local inference, quantization, offline agents |
+| [12. Project Ideas](13-project-ideas/00-index.md) | Portfolio-Worthy Challenges | 20–30h | Capstone projects, LinkedIn content |
+| [Appendix](appendix/00-index.md) | Resources, Glossary, Troubleshooting | — | Reference materials |
 
 ---
 
@@ -89,7 +89,7 @@ Each section has:
 
 ## Ready to Start?
 
-👉 [Begin: Section 0 — Prerequisites & Setup](01-prerequisites/index.md)
+👉 [Begin: Section 0 — Prerequisites & Setup](01-prerequisites/00-index.md)
 
 
 ---

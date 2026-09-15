@@ -63,6 +63,11 @@
               },
               {
                 "type": "file",
+                "name": "00-index.md",
+                "path": "learning-path/01-prerequisites/00-index.md"
+              },
+              {
+                "type": "file",
                 "name": "01-bootstrapping.md",
                 "path": "learning-path/01-prerequisites/01-bootstrapping.md"
               },
@@ -75,11 +80,6 @@
                 "type": "file",
                 "name": "03-markdown.md",
                 "path": "learning-path/01-prerequisites/03-markdown.md"
-              },
-              {
-                "type": "file",
-                "name": "index.md",
-                "path": "learning-path/01-prerequisites/index.md"
               }
             ]
           },
@@ -104,6 +104,11 @@
               },
               {
                 "type": "file",
+                "name": "00-index.md",
+                "path": "learning-path/02-opencode-foundation/00-index.md"
+              },
+              {
+                "type": "file",
                 "name": "01-what-is-opencode.md",
                 "path": "learning-path/02-opencode-foundation/01-what-is-opencode.md"
               },
@@ -121,11 +126,6 @@
                 "type": "file",
                 "name": "04-first-workflow.md",
                 "path": "learning-path/02-opencode-foundation/04-first-workflow.md"
-              },
-              {
-                "type": "file",
-                "name": "index.md",
-                "path": "learning-path/02-opencode-foundation/index.md"
               }
             ]
           },
@@ -144,6 +144,11 @@
               },
               {
                 "type": "file",
+                "name": "00-index.md",
+                "path": "learning-path/03-prompt-engineering/00-index.md"
+              },
+              {
+                "type": "file",
                 "name": "01-writing-prompts.md",
                 "path": "learning-path/03-prompt-engineering/01-writing-prompts.md"
               },
@@ -156,11 +161,6 @@
                 "type": "file",
                 "name": "03-prompt-libraries.md",
                 "path": "learning-path/03-prompt-engineering/03-prompt-libraries.md"
-              },
-              {
-                "type": "file",
-                "name": "index.md",
-                "path": "learning-path/03-prompt-engineering/index.md"
               }
             ]
           },
@@ -195,6 +195,11 @@
               },
               {
                 "type": "file",
+                "name": "00-index.md",
+                "path": "learning-path/04-skills-mcp/00-index.md"
+              },
+              {
+                "type": "file",
                 "name": "01-skills.md",
                 "path": "learning-path/04-skills-mcp/01-skills.md"
               },
@@ -217,11 +222,6 @@
                 "type": "file",
                 "name": "05-extensions-lsp.md",
                 "path": "learning-path/04-skills-mcp/05-extensions-lsp.md"
-              },
-              {
-                "type": "file",
-                "name": "index.md",
-                "path": "learning-path/04-skills-mcp/index.md"
               }
             ]
           },
@@ -271,6 +271,11 @@
               },
               {
                 "type": "file",
+                "name": "00-index.md",
+                "path": "learning-path/05-agent-architecture/00-index.md"
+              },
+              {
+                "type": "file",
                 "name": "01-how-agents-built.md",
                 "path": "learning-path/05-agent-architecture/01-how-agents-built.md"
               },
@@ -283,11 +288,6 @@
                 "type": "file",
                 "name": "03-agents-vs-skills.md",
                 "path": "learning-path/05-agent-architecture/03-agents-vs-skills.md"
-              },
-              {
-                "type": "file",
-                "name": "index.md",
-                "path": "learning-path/05-agent-architecture/index.md"
               }
             ]
           },
@@ -303,6 +303,11 @@
                 "path": "learning-path/06-use-cases/assets",
                 "open": false,
                 "children": []
+              },
+              {
+                "type": "file",
+                "name": "00-index.md",
+                "path": "learning-path/06-use-cases/00-index.md"
               },
               {
                 "type": "file",
@@ -328,11 +333,6 @@
                 "type": "file",
                 "name": "05-capstone.md",
                 "path": "learning-path/06-use-cases/05-capstone.md"
-              },
-              {
-                "type": "file",
-                "name": "index.md",
-                "path": "learning-path/06-use-cases/index.md"
               }
             ]
           },
@@ -351,13 +351,13 @@
               },
               {
                 "type": "file",
-                "name": "01-10-summary.md",
-                "path": "learning-path/07-assignments/01-10-summary.md"
+                "name": "00-index.md",
+                "path": "learning-path/07-assignments/00-index.md"
               },
               {
                 "type": "file",
-                "name": "index.md",
-                "path": "learning-path/07-assignments/index.md"
+                "name": "01-10-summary.md",
+                "path": "learning-path/07-assignments/01-10-summary.md"
               },
               {
                 "type": "file",
@@ -387,6 +387,11 @@
               },
               {
                 "type": "file",
+                "name": "00-index.md",
+                "path": "learning-path/08-omp/00-index.md"
+              },
+              {
+                "type": "file",
                 "name": "01-why-omp.md",
                 "path": "learning-path/08-omp/01-why-omp.md"
               },
@@ -409,11 +414,6 @@
                 "type": "file",
                 "name": "05-building-agents.md",
                 "path": "learning-path/08-omp/05-building-agents.md"
-              },
-              {
-                "type": "file",
-                "name": "index.md",
-                "path": "learning-path/08-omp/index.md"
               }
             ]
           },
@@ -463,6 +463,11 @@
               },
               {
                 "type": "file",
+                "name": "00-index.md",
+                "path": "learning-path/09-other-agents/00-index.md"
+              },
+              {
+                "type": "file",
                 "name": "01-deepseek-harness.md",
                 "path": "learning-path/09-other-agents/01-deepseek-harness.md"
               },
@@ -470,11 +475,6 @@
                 "type": "file",
                 "name": "02-other-agents.md",
                 "path": "learning-path/09-other-agents/02-other-agents.md"
-              },
-              {
-                "type": "file",
-                "name": "index.md",
-                "path": "learning-path/09-other-agents/index.md"
               }
             ]
           },
@@ -499,6 +499,11 @@
               },
               {
                 "type": "file",
+                "name": "00-index.md",
+                "path": "learning-path/10-paid-agents/00-index.md"
+              },
+              {
+                "type": "file",
                 "name": "01-installing-paid.md",
                 "path": "learning-path/10-paid-agents/01-installing-paid.md"
               },
@@ -506,11 +511,6 @@
                 "type": "file",
                 "name": "02-when-to-upgrade.md",
                 "path": "learning-path/10-paid-agents/02-when-to-upgrade.md"
-              },
-              {
-                "type": "file",
-                "name": "index.md",
-                "path": "learning-path/10-paid-agents/index.md"
               }
             ]
           },
@@ -535,6 +535,11 @@
               },
               {
                 "type": "file",
+                "name": "00-index.md",
+                "path": "learning-path/11-free-tier-llms/00-index.md"
+              },
+              {
+                "type": "file",
                 "name": "01-free-providers.md",
                 "path": "learning-path/11-free-tier-llms/01-free-providers.md"
               },
@@ -542,11 +547,6 @@
                 "type": "file",
                 "name": "02-using-free-llms.md",
                 "path": "learning-path/11-free-tier-llms/02-using-free-llms.md"
-              },
-              {
-                "type": "file",
-                "name": "index.md",
-                "path": "learning-path/11-free-tier-llms/index.md"
               }
             ]
           },
@@ -576,6 +576,11 @@
               },
               {
                 "type": "file",
+                "name": "00-index.md",
+                "path": "learning-path/12-local-llms/00-index.md"
+              },
+              {
+                "type": "file",
                 "name": "01-ollama.md",
                 "path": "learning-path/12-local-llms/01-ollama.md"
               },
@@ -598,11 +603,6 @@
                 "type": "file",
                 "name": "05-omniroute.md",
                 "path": "learning-path/12-local-llms/05-omniroute.md"
-              },
-              {
-                "type": "file",
-                "name": "index.md",
-                "path": "learning-path/12-local-llms/index.md"
               }
             ]
           },
@@ -618,6 +618,11 @@
                 "path": "learning-path/13-project-ideas/assets",
                 "open": false,
                 "children": []
+              },
+              {
+                "type": "file",
+                "name": "00-index.md",
+                "path": "learning-path/13-project-ideas/00-index.md"
               },
               {
                 "type": "file",
@@ -638,11 +643,6 @@
                 "type": "file",
                 "name": "04-linkedin.md",
                 "path": "learning-path/13-project-ideas/04-linkedin.md"
-              },
-              {
-                "type": "file",
-                "name": "index.md",
-                "path": "learning-path/13-project-ideas/index.md"
               }
             ]
           },
@@ -661,8 +661,8 @@
               },
               {
                 "type": "file",
-                "name": "index.md",
-                "path": "learning-path/appendix/index.md"
+                "name": "00-index.md",
+                "path": "learning-path/appendix/00-index.md"
               }
             ]
           },
@@ -696,8 +696,8 @@
           },
           {
             "type": "file",
-            "name": "index.md",
-            "path": "learning-path/index.md"
+            "name": "00-index.md",
+            "path": "learning-path/00-index.md"
           }
         ]
       },

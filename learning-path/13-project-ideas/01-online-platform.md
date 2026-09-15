@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Back to Section Index](index.md) | [Next Topic →](02-mobile-app.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-mobile-app.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section 12: Project Ideas](index.md) → **AI Research Copilot**
+[← Main Index](../00-index.md) → [Section 12: Project Ideas](00-index.md) → **AI Research Copilot**
 
 # AI Research Copilot
 
@@ -103,7 +103,7 @@ Register the MCPs your agent needs. In OpenCode (`~/.opencode.json`):
 }
 ```
 
-> 🔐 Get free keys: [Exa](https://dashboard.exa.ai/) has a free tier; [Firecrawl](https://www.firecrawl.dev/) does too. Both are in the [resource directory](../appendix/index.md#a-resource-directory-all-free-or-20).
+> 🔐 Get free keys: [Exa](https://dashboard.exa.ai/) has a free tier; [Firecrawl](https://www.firecrawl.dev/) does too. Both are in the [resource directory](../appendix/00-index.md#a-resource-directory-all-free-or-20).
 
 ### Step 3: Write the Researcher agent persona
 
@@ -256,6 +256,6 @@ Set the Exa, Firecrawl, and Supabase env vars in the Vercel dashboard. Your app 
 ---
 
 <!-- Navigation: Bottom -->
-← [Back to Section Index](index.md) | [Next Topic →](02-mobile-app.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-mobile-app.md)
 
-[← Main Index](../index.md) | [Section Index](index.md)
+[← Main Index](../00-index.md) | [Section Index](00-index.md)

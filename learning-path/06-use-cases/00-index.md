@@ -1,4 +1,4 @@
-← [Main Index](../index.md)
+← [Main Index](../00-index.md)
 
 ---
 
@@ -45,10 +45,10 @@ Before starting, make sure you have completed:
 
 After completing these walkthroughs, move on to:
 
-- **Section 6 — Assignments** (`../07-assignments/index.md`): Ten structured exercises to reinforce what you've learned
-- **Section 7 — Oh My Pi (OMP)** (`../08-omp/index.md`): Master OMP's advanced features (hooks, multi-agent, cost tracking)
-- **Section 12 — Project Ideas** (`../13-project-ideas/index.md`): Portfolio-worthy challenges to keep building
+- **Section 6 — Assignments** (`../07-assignments/00-index.md`): Ten structured exercises to reinforce what you've learned
+- **Section 7 — Oh My Pi (OMP)** (`../08-omp/00-index.md`): Master OMP's advanced features (hooks, multi-agent, cost tracking)
+- **Section 12 — Project Ideas** (`../13-project-ideas/00-index.md`): Portfolio-worthy challenges to keep building
 
 ---
 
-← [Main Index](../index.md) | → [Start: 5.1 Local Machine](01-local-machine.md)
+← [Main Index](../00-index.md) | → [Start: 5.1 Local Machine](01-local-machine.md)

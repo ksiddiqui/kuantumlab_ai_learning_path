@@ -1,10 +1,10 @@
 ---
 
-← [Back to Section Index](index.md) | [Next Topic →](01-ollama.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](01-ollama.md)
 
 ---
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Section Overview**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Section Overview**
 
 ---
 
@@ -59,6 +59,6 @@ This section assumes you have:
 
 ---
 
-← [Back to Main Index](../index.md) | [← Previous Section](../11-free-tier-llms/index.md) | [Next Section →](../13-project-ideas/index.md)
+← [Back to Main Index](../00-index.md) | [← Previous Section](../11-free-tier-llms/00-index.md) | [Next Section →](../13-project-ideas/00-index.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

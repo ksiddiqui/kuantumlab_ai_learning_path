@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Back to Section Index](index.md) | ← [Previous Topic](01-what-is-opencode.md) | [Next Topic →](03-basic-commands.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](01-what-is-opencode.md) | [Next Topic →](03-basic-commands.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section Index](index.md) → **How It Works**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **How It Works**
 
 ---
 
@@ -237,4 +237,4 @@ One of OpenCode's most powerful features is the `/init` command. When you run it
 ---
 
 <!-- Navigation: Bottom -->
-← [Back to Section Index](index.md) | [01. What Is OpenCode?](01-what-is-opencode.md) | [03. Basic Commands →](03-basic-commands.md)
+← [Back to Section Index](00-index.md) | [01. What Is OpenCode?](01-what-is-opencode.md) | [03. Basic Commands →](03-basic-commands.md)

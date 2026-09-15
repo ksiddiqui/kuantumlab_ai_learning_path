@@ -50,4 +50,4 @@ This section assumes **zero terminal experience**. You do not need a computer sc
 
 ---
 
-← [Back to Main Index](../index.md) | [Table of Contents](../index.md) | [Next Section →](../02-opencode-foundation/index.md)
+← [Back to Main Index](../00-index.md) | [Table of Contents](../00-index.md) | [Next Section →](../02-opencode-foundation/00-index.md)

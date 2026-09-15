@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Back to Main Index](../index.md)
+← [Back to Main Index](../00-index.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → **Section 2: OpenCode Foundation**
+[← Main Index](../00-index.md) → **Section 2: OpenCode Foundation**
 
 ---
 
@@ -59,9 +59,9 @@ Unlike a chatbot that only chats, OpenCode is an **agent** — it takes steps to
 
 ## What's Next?
 
-After this section, you'll move on to [Section 3: Prompt Engineering](../03-prompt-engineering/index.md) to learn how to write prompts that produce reliable, predictable code instead of guesswork.
+After this section, you'll move on to [Section 3: Prompt Engineering](../03-prompt-engineering/00-index.md) to learn how to write prompts that produce reliable, predictable code instead of guesswork.
 
 ---
 
 <!-- Navigation: Bottom -->
-[← Main Index](../index.md) | [01. What Is OpenCode?](01-what-is-opencode.md) →
+[← Main Index](../00-index.md) | [01. What Is OpenCode?](01-what-is-opencode.md) →

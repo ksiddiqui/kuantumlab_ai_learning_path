@@ -77,6 +77,6 @@ AI agents are powerful, and with that comes a responsibility to use them thought
 ---
 
 <!-- Navigation: Bottom -->
-← [Back to Main Index](../index.md) | ← [Previous Section](../13-project-ideas/index.md) | [Back to Table of Contents](../index.md)
+← [Back to Main Index](../00-index.md) | ← [Previous Section](../13-project-ideas/00-index.md) | [Back to Table of Contents](../00-index.md)
 
-[← Project Root](../index.md) | ← [Back to Main Index](../index.md)
+[← Project Root](../00-index.md) | ← [Back to Main Index](../00-index.md)

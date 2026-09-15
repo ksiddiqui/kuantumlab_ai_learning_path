@@ -50,6 +50,44 @@ function applyStoredTheme() {
     if (localStorage.getItem('viewer-theme') === 'light') document.body.classList.add('light');
 }
 
+// ---------- sidebar resizer ----------
+(function initResizer() {
+    const resizer = document.getElementById('sidebar-resizer');
+    if (!resizer) return;
+    const sidebar = resizer.previousElementSibling;
+    const DEFAULT_W = 300, MIN_W = 180, MAX_W = 520;
+    let dragging = false;
+
+    // restore saved width
+    const saved = parseInt(localStorage.getItem('viewer-sidebar-w'), 10);
+    if (saved >= MIN_W && saved <= MAX_W) sidebar.style.width = saved + 'px';
+
+    resizer.addEventListener('mousedown', (e) => {
+        e.preventDefault();
+        dragging = true;
+        resizer.classList.add('dragging');
+        document.body.style.cursor = 'col-resize';
+        document.body.style.userSelect = 'none';
+    });
+    window.addEventListener('mousemove', (e) => {
+        if (!dragging) return;
+        const w = Math.min(MAX_W, Math.max(MIN_W, e.clientX));
+        sidebar.style.width = w + 'px';
+    });
+    window.addEventListener('mouseup', () => {
+        if (!dragging) return;
+        dragging = false;
+        resizer.classList.remove('dragging');
+        document.body.style.cursor = '';
+        document.body.style.userSelect = '';
+        localStorage.setItem('viewer-sidebar-w', sidebar.style.width);
+    });
+    resizer.addEventListener('dblclick', () => {
+        sidebar.style.width = DEFAULT_W + 'px';
+        localStorage.removeItem('viewer-sidebar-w');
+    });
+})();
+
 // ---------- tree ----------
 function countFiles(n) { return n.type === 'file' ? 1 : n.children.reduce((a, c) => a + countFiles(c), 0); }
 
@@ -252,6 +290,15 @@ function closeTab(file, e) {
     } else renderTabs();
 }
 
+function closeAllTabs() {
+    openTabs = [];
+    activeFile = null;
+    renderTabs();
+    el('content').innerHTML = '<div class="loading-pane">No files open. Click one in the Explorer.</div>';
+    updateStatus('');
+}
+window.closeAllTabs = closeAllTabs;
+
 // ---------- image preview ----------
 function closePreview() {
     if (previewEl) { previewEl.remove(); previewEl = null; }
@@ -310,6 +357,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     // Esc closes the image preview.
     document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closePreview(); });
 
-    openFile(CONFIG.defaultFile || 'index.md');
+    openFile(CONFIG.defaultFile || 'learning-path/00-index.md');
 });
 })();

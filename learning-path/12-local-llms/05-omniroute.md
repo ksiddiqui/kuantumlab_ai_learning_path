@@ -1,10 +1,10 @@
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](04-local-with-agents.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](04-local-with-agents.md)
 
 ---
 
-[← Main Index](../index.md) → [Section Index](index.md) → **OmniRoute**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **OmniRoute**
 
 ---
 
@@ -249,6 +249,6 @@ Your Agent
 
 ---
 
-← [Back to Section Index](index.md) | [← Previous Topic](04-local-with-agents.md)
+← [Back to Section Index](00-index.md) | [← Previous Topic](04-local-with-agents.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

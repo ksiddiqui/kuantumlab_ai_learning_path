@@ -1,6 +1,6 @@
-← [Back to Main Index](../index.md) | [Next Section →](../04-skills-mcp/index.md)
+← [Back to Main Index](../00-index.md) | [Next Section →](../04-skills-mcp/00-index.md)
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Section 2: Prompt Engineering**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Section 2: Prompt Engineering**
 
 # Prompt Engineering for AI Agents
 
@@ -49,7 +49,7 @@ By the end of this section you will:
 
 Before starting this section, you should:
 
-- Have completed [Section 1 — OpenCode Foundation](../02-opencode-foundation/index.md) (or have experience running an AI agent at least once)
+- Have completed [Section 1 — OpenCode Foundation](../02-opencode-foundation/00-index.md) (or have experience running an AI agent at least once)
 - Understand what an AI agent is and the difference between a chatbot and an agent
 - Have a code editor and terminal accessible
 
@@ -57,6 +57,6 @@ Before starting this section, you should:
 
 ---
 
-← [Back to Main Index](../index.md) | [Next Section →](../04-skills-mcp/index.md)
+← [Back to Main Index](../00-index.md) | [Next Section →](../04-skills-mcp/00-index.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

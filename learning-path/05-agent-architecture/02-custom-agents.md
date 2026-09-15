@@ -1,10 +1,10 @@
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](01-how-agents-built.md) | [Next Topic →](03-agents-vs-skills.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](01-how-agents-built.md) | [Next Topic →](03-agents-vs-skills.md)
 
 ---
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Creating Custom Agents**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Creating Custom Agents**
 
 ---
 
@@ -201,6 +201,6 @@ Skills provide reusable *behaviors*; the custom agent provides the *personality*
 
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](01-how-agents-built.md) | [Next Topic →](03-agents-vs-skills.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](01-how-agents-built.md) | [Next Topic →](03-agents-vs-skills.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Back to Section Index](index.md) | [Next Topic →](02-mcp-servers.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-mcp-servers.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section Index](index.md) → **What Are Skills?**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **What Are Skills?**
 
 ---
 
@@ -199,6 +199,6 @@ omp skill update code-reviewer
 ---
 
 <!-- Navigation: Bottom -->
-← [Back to Section Index](index.md) | [Next Topic →](02-mcp-servers.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-mcp-servers.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

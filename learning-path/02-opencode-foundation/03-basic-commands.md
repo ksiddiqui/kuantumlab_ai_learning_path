@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Back to Section Index](index.md) | ← [Previous Topic](02-how-it-works.md) | [Next Topic →](04-first-workflow.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](02-how-it-works.md) | [Next Topic →](04-first-workflow.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section Index](index.md) → **Basic Commands**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Basic Commands**
 
 ---
 
@@ -376,4 +376,4 @@ OpenCode uses a **leader key** system. The default leader is `ctrl+x`. Many acti
 ---
 
 <!-- Navigation: Bottom -->
-← [Back to Section Index](index.md) | [02. How It Works](02-how-it-works.md) | [04. First Workflow →](04-first-workflow.md)
+← [Back to Section Index](00-index.md) | [02. How It Works](02-how-it-works.md) | [04. First Workflow →](04-first-workflow.md)

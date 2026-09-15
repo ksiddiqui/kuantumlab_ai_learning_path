@@ -1,10 +1,10 @@
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](02-custom-agents.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](02-custom-agents.md)
 
 ---
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Agents vs Skills vs Commands**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Agents vs Skills vs Commands**
 
 ---
 
@@ -172,6 +172,6 @@ You do not have to start at the top of the complexity ladder. Many teams follow 
 
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](02-custom-agents.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](02-custom-agents.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md) | [Next Section: Use Cases →](../06-use-cases/index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md) | [Next Section: Use Cases →](../06-use-cases/00-index.md)

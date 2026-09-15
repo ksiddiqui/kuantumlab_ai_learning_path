@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Back to Main Index](../index.md) | [← Previous Section: Local LLMs](../12-local-llms/index.md) | [Next Section: Appendix →](../appendix/index.md)
+← [Back to Main Index](../00-index.md) | [← Previous Section: Local LLMs](../12-local-llms/00-index.md) | [Next Section: Appendix →](../appendix/00-index.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section 12: Project Ideas](index.md) → **Current Page**
+[← Main Index](../00-index.md) → [Section 12: Project Ideas](00-index.md) → **Current Page**
 
 # Project Ideas (Capstone)
 
@@ -70,6 +70,6 @@ These capstone tracks reuse the tools you already saw in earlier sections. If yo
 ---
 
 <!-- Navigation: Bottom -->
-← [Back to Main Index](../index.md) | [← Previous Section: Local LLMs](../12-local-llms/index.md) | [Next Section: Appendix →](../appendix/index.md)
+← [Back to Main Index](../00-index.md) | [← Previous Section: Local LLMs](../12-local-llms/00-index.md) | [Next Section: Appendix →](../appendix/00-index.md)
 
-[← Main Index](../index.md) | [Section Index](index.md)
+[← Main Index](../00-index.md) | [Section Index](00-index.md)

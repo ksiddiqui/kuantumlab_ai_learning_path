@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Back to Section Index](index.md) | ← [Previous Topic](03-local-tool.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](03-local-tool.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section 12: Project Ideas](index.md) → **Post on LinkedIn**
+[← Main Index](../00-index.md) → [Section 12: Project Ideas](00-index.md) → **Post on LinkedIn**
 
 # Post on LinkedIn: Showcase Your Project
 
@@ -211,6 +211,6 @@ Review the draft, tweak the hook if it feels generic, then schedule for posting.
 ---
 
 <!-- Navigation: Bottom -->
-← [Back to Section Index](index.md) | ← [Previous Topic](03-local-tool.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](03-local-tool.md)
 
-[← Main Index](../index.md) | [Section Index](index.md)
+[← Main Index](../00-index.md) | [Section Index](00-index.md)

@@ -1,10 +1,10 @@
 ---
 
-← [Back to Section Index](index.md) | [Next Topic →](02-llms-work.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-llms-work.md)
 
 ---
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Bootstrapping Your Environment**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Bootstrapping Your Environment**
 
 ---
 
@@ -268,6 +268,6 @@ Every command should print something without errors. If any command fails:
 
 ---
 
-← [Back to Section Index](index.md) | [Next Topic →](02-llms-work.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-llms-work.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Back to Section Index](index.md) | ← [Previous Topic](02-mobile-app.md) | [Next Topic →](04-linkedin.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](02-mobile-app.md) | [Next Topic →](04-linkedin.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section 12: Project Ideas](index.md) → **CLI Life Assistant**
+[← Main Index](../00-index.md) → [Section 12: Project Ideas](00-index.md) → **CLI Life Assistant**
 
 # CLI Life Assistant + Privacy-First Data Dashboard
 
@@ -268,6 +268,6 @@ crontab -e
 ---
 
 <!-- Navigation: Bottom -->
-← [Back to Section Index](index.md) | ← [Previous Topic](02-mobile-app.md) | [Next Topic →](04-linkedin.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](02-mobile-app.md) | [Next Topic →](04-linkedin.md)
 
-[← Main Index](../index.md) | [Section Index](index.md)
+[← Main Index](../00-index.md) | [Section Index](00-index.md)

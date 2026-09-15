@@ -1,10 +1,10 @@
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](02-llms-work.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](02-llms-work.md)
 
 ---
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Markdown for Agents**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Markdown for Agents**
 
 ---
 
@@ -218,6 +218,6 @@ Some content above, some below.
 
 ---
 
-← [Back to Section Index](index.md)
+← [Back to Section Index](00-index.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

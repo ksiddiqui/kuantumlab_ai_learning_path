@@ -1,6 +1,6 @@
-← [Back to Section Index](index.md) | [Next Topic →](02-common-failures.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-common-failures.md)
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Writing Effective Prompts**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Writing Effective Prompts**
 
 # Writing Effective Prompts
 
@@ -338,6 +338,6 @@ Refine and repeat. A good prompt takes 2–3 iterations.
 
 ---
 
-← [Back to Section Index](index.md) | [Next Topic →](02-common-failures.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-common-failures.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

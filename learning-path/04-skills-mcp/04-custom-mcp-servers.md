@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Back to Section Index](index.md) | ← [Previous Topic](03-installing-mcps.md) | [Next Topic →](05-extensions-lsp.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](03-installing-mcps.md) | [Next Topic →](05-extensions-lsp.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section Index](index.md) → **Custom MCP Servers**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Custom MCP Servers**
 
 ---
 
@@ -262,6 +262,6 @@ Resources are accessed differently than tools — they're read, not called:
 ---
 
 <!-- Navigation: Bottom -->
-← [Back to Section Index](index.md) | ← [Previous Topic](03-installing-mcps.md) | [Next Topic →](05-extensions-lsp.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](03-installing-mcps.md) | [Next Topic →](05-extensions-lsp.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

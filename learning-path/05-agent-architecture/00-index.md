@@ -1,10 +1,10 @@
 ---
 
-← [Back to Main Index](../index.md) | [Next Topic →](01-how-agents-built.md)
+← [Back to Main Index](../00-index.md) | [Next Topic →](01-how-agents-built.md)
 
 ---
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Section Overview**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Section Overview**
 
 ---
 
@@ -58,6 +58,6 @@ This section assumes you have finished Sections 1–3:
 
 ---
 
-← [Back to Main Index](../index.md) | [Next Topic →](01-how-agents-built.md)
+← [Back to Main Index](../00-index.md) | [Next Topic →](01-how-agents-built.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

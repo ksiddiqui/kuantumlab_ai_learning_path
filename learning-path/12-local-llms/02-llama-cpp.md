@@ -1,10 +1,10 @@
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](01-ollama.md) | [Next Topic →](03-local-apis.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](01-ollama.md) | [Next Topic →](03-local-apis.md)
 
 ---
 
-[← Main Index](../index.md) → [Section Index](index.md) → **llama.cpp**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **llama.cpp**
 
 ---
 
@@ -221,6 +221,6 @@ curl http://127.0.0.1:8080/v1/chat/completions \
 
 ---
 
-← [Back to Section Index](index.md) | [Next Topic →](03-local-apis.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](03-local-apis.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

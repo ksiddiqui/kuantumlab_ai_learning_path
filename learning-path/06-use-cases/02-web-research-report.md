@@ -1,6 +1,6 @@
-← [Back to Section Index](index.md) | ← [Previous Topic](01-local-machine.md) | [Next Topic →](03-gmail-research.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](01-local-machine.md) | [Next Topic →](03-gmail-research.md)
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Deep Internet Research Report**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Deep Internet Research Report**
 
 ---
 
@@ -162,6 +162,6 @@ Use Python with `reportlab` or `markdown2` + `weasyprint`. Save as `llm_provider
 
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](01-local-machine.md) | [Next Topic →](03-gmail-research.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](01-local-machine.md) | [Next Topic →](03-gmail-research.md)
 
-[← Main Index](../index.md) | [Section Index](index.md)
+[← Main Index](../00-index.md) | [Section Index](00-index.md)

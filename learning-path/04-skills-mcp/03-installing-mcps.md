@@ -1,8 +1,8 @@
 <!-- Navigation: Top -->
-← [Back to Section Index](index.md) | ← [Previous Topic](02-mcp-servers.md) | [Next Topic →](04-custom-mcp-servers.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](02-mcp-servers.md) | [Next Topic →](04-custom-mcp-servers.md)
 
 <!-- Navigation: Breadcrumb -->
-[← Main Index](../index.md) → [Section Index](index.md) → **Installing Your First MCPs**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Installing Your First MCPs**
 
 ---
 
@@ -279,6 +279,6 @@ If the agent responds with search results and README summaries, your MCP is work
 ---
 
 <!-- Navigation: Bottom -->
-← [Back to Section Index](index.md) | ← [Previous Topic](02-mcp-servers.md) | [Next Topic →](04-custom-mcp-servers.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](02-mcp-servers.md) | [Next Topic →](04-custom-mcp-servers.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

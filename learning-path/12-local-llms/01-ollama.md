@@ -1,10 +1,10 @@
 ---
 
-← [Back to Section Index](index.md) | [Next Topic →](02-llama-cpp.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-llama-cpp.md)
 
 ---
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Ollama**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Ollama**
 
 ---
 
@@ -198,6 +198,6 @@ The model is deleted from disk (~2–4 GB freed). You can pull it again any time
 
 ---
 
-← [Back to Section Index](index.md) | [Next Topic →](02-llama-cpp.md)
+← [Back to Section Index](00-index.md) | [Next Topic →](02-llama-cpp.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

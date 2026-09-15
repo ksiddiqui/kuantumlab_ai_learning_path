@@ -1,10 +1,10 @@
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](01-bootstrapping.md) | [Next Topic →](03-markdown.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](01-bootstrapping.md) | [Next Topic →](03-markdown.md)
 
 ---
 
-[← Main Index](../index.md) → [Section Index](index.md) → **How LLMs Work: Tokens & Context**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **How LLMs Work: Tokens & Context**
 
 ---
 
@@ -212,6 +212,6 @@ Sending a 500-token prompt and getting a 200-token reply:
 
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](01-bootstrapping.md) | [Next Topic →](03-markdown.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](01-bootstrapping.md) | [Next Topic →](03-markdown.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

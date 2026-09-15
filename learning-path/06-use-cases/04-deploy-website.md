@@ -1,6 +1,6 @@
-← [Back to Section Index](index.md) | ← [Previous Topic](03-gmail-research.md) | [Next Topic →](05-capstone.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](03-gmail-research.md) | [Next Topic →](05-capstone.md)
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Website Deployment Under $5/Month**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Website Deployment Under $5/Month**
 
 ---
 
@@ -183,6 +183,6 @@ Show me the exact DNS record values needed.
 
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](03-gmail-research.md) | [Next Topic →](05-capstone.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](03-gmail-research.md) | [Next Topic →](05-capstone.md)
 
-[← Main Index](../index.md) | [Section Index](index.md)
+[← Main Index](../00-index.md) | [Section Index](00-index.md)

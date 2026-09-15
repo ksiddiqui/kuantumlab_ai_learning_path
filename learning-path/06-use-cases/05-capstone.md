@@ -1,6 +1,6 @@
-← [Back to Section Index](index.md) | ← [Previous Topic](04-deploy-website.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](04-deploy-website.md)
 
-[← Main Index](../index.md) → [Section Index](index.md) → **AI Meeting Assistant Capstone**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **AI Meeting Assistant Capstone**
 
 ---
 
@@ -219,6 +219,6 @@ This should be a single multi-agent session — do not ask me for intermediate a
 
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](04-deploy-website.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](04-deploy-website.md)
 
-[← Main Index](../index.md) | [Section Index](index.md)
+[← Main Index](../00-index.md) | [Section Index](00-index.md)

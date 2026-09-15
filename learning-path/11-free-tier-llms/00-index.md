@@ -1,6 +1,6 @@
-← [Back to Main Index](../index.md) | [← Previous Section: Paid Agent Options](../10-paid-agents/index.md) | [Next Section: Local LLM Engines →](../12-local-llms/index.md)
+← [Back to Main Index](../00-index.md) | [← Previous Section: Paid Agent Options](../10-paid-agents/00-index.md) | [Next Section: Local LLM Engines →](../12-local-llms/00-index.md)
 
-[← Main Index](../index.md) → [Section 10: Free-Tier LLM Providers](index.md) → **Current Page**
+[← Main Index](../00-index.md) → [Section 10: Free-Tier LLM Providers](00-index.md) → **Current Page**
 
 # Free-Tier LLM Providers
 
@@ -63,7 +63,7 @@ The biggest surprise here: **none of these strictly require a credit card to beg
 
 ## How Free-Tier LLM Providers Fit Into the Learning Path
 
-You've already learned to run LLMs **locally** with Ollama/Ollama in Section 11 ([Local LLM Engines](../12-local-llms/index.md)). This section is the **remote** counterpart — calling hosted models over HTTP so you're not limited by your computer's hardware.
+You've already learned to run LLMs **locally** with Ollama/Ollama in Section 11 ([Local LLM Engines](../12-local-llms/00-index.md)). This section is the **remote** counterpart — calling hosted models over HTTP so you're not limited by your computer's hardware.
 
 1. **OpenCode** (Section 1) and **Oh My Pi** (Section 7) can both route their model calls to these free APIs instead of local models.
 2. **Other open-source agents** (Section 8) like DeepSeek, Aider, and Cline already call some of these endpoints — now you'll understand exactly where the keys come from and how the billing works.
@@ -71,7 +71,7 @@ You've already learned to run LLMs **locally** with Ollama/Ollama in Section 11 
 
 > 💡 **Key Insight:** Once you have one OpenAI-compatible key, you have them all. Each provider exposes the same `/chat/completions` shape — you only swap the `base_url`, the `api_key`, and the `model` name.
 
-> 📌 **Next steps:** After reading through this section, move on to [Section 11 — Local LLM Engines](../12-local-llms/index.md) to learn how to run these same models on your own machine for zero latency and zero per-token cost.
+> 📌 **Next steps:** After reading through this section, move on to [Section 11 — Local LLM Engines](../12-local-llms/00-index.md) to learn how to run these same models on your own machine for zero latency and zero per-token cost.
 
 ---
 
@@ -94,6 +94,6 @@ You've already learned to run LLMs **locally** with Ollama/Ollama in Section 11 
 
 ---
 
-← [Back to Section Index](index.md) | [The Five Free-Tier LLM Providers →](01-free-providers.md)
+← [Back to Section Index](00-index.md) | [The Five Free-Tier LLM Providers →](01-free-providers.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)

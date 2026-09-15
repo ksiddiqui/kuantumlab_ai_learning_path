@@ -1,6 +1,6 @@
-← [Back to Section Index](index.md) | ← [Previous Topic](02-web-research-report.md) | [Next Topic →](04-deploy-website.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](02-web-research-report.md) | [Next Topic →](04-deploy-website.md)
 
-[← Main Index](../index.md) → [Section Index](index.md) → **Gmail Inbox Topic Research**
+[← Main Index](../00-index.md) → [Section Index](00-index.md) → **Gmail Inbox Topic Research**
 
 ---
 
@@ -191,6 +191,6 @@ Save drafts to `gmail_followups_draft.md` — do not send.
 
 ---
 
-← [Back to Section Index](index.md) | ← [Previous Topic](02-web-research-report.md) | [Next Topic →](04-deploy-website.md)
+← [Back to Section Index](00-index.md) | ← [Previous Topic](02-web-research-report.md) | [Next Topic →](04-deploy-website.md)
 
-[← Main Index](../index.md) | [Section Index](index.md)
+[← Main Index](../00-index.md) | [Section Index](00-index.md)

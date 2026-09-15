@@ -1,6 +1,6 @@
-← [Back to Main Index](../index.md) | [← Previous Section: Other Agents](../09-other-agents/index.md) | [Next Section: Free-Tier LLMs →](../11-free-tier-llms/index.md)
+← [Back to Main Index](../00-index.md) | [← Previous Section: Other Agents](../09-other-agents/00-index.md) | [Next Section: Free-Tier LLMs →](../11-free-tier-llms/00-index.md)
 
-[← Main Index](../index.md) → [Section 9: Paid Agent Options](index.md) → **Current Page**
+[← Main Index](../00-index.md) → [Section 9: Paid Agent Options](00-index.md) → **Current Page**
 
 # Paid Agent Options
 
@@ -65,7 +65,7 @@ You've already learned the fundamentals with free tools:
 
 This section is **optional**. You can complete the entire learning path using only OpenCode and OMP. The paid agents here offer incremental benefits — better models, enterprise features, and cloud integration — but the skills you've learned transfer directly.
 
-> 📌 **Next steps:** After reading through this section, move on to [Section 10 — Free-Tier LLM Providers](../11-free-tier-llms/index.md) to explore API-based access to 100+ models without a monthly subscription.
+> 📌 **Next steps:** After reading through this section, move on to [Section 10 — Free-Tier LLM Providers](../11-free-tier-llms/00-index.md) to explore API-based access to 100+ models without a monthly subscription.
 
 ---
 
@@ -88,6 +88,6 @@ This section is **optional**. You can complete the entire learning path using on
 
 ---
 
-← [Back to Section Index](index.md) | [Installing Paid Agents →](01-installing-paid.md)
+← [Back to Section Index](00-index.md) | [Installing Paid Agents →](01-installing-paid.md)
 
-[← Main Index](../index.md) | [Table of Contents](index.md)
+[← Main Index](../00-index.md) | [Table of Contents](00-index.md)
