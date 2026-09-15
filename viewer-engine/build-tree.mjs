@@ -30,8 +30,8 @@ function isExcluded(name, exclude) {
 
 async function walk(dir, base) {
     const entries = await readdir(dir, { withFileTypes: true });
-    const dirs = entries.filter(e => e.isDirectory() && !isExcluded(e.name, exclude));
-    const files = entries.filter(e => e.isFile() && !isExcluded(e.name, exclude));
+    const dirs = entries.filter(e => e.isDirectory() && !e.name.startsWith('.') && !isExcluded(e.name, exclude));
+    const files = entries.filter(e => e.isFile() && !e.name.startsWith('.') && !isExcluded(e.name, exclude));
     dirs.sort((a, b) => a.name.localeCompare(b.name));
     files.sort((a, b) => a.name.localeCompare(b.name));
     const children = [];

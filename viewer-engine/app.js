@@ -71,7 +71,10 @@ function buildTreeNodes(node, parentEl, depth) {
         files.className = 'tree-files' + (node.open ? ' show' : '');
         folder.onclick = () => { folder.classList.toggle('open'); files.classList.toggle('show'); };
         parentEl.appendChild(folder);
-        for (const child of node.children) buildTreeNodes(child, files, depth + 1);
+        for (const child of node.children) {
+            if (child.name.startsWith('.')) continue; // never render dot files/dirs
+            buildTreeNodes(child, files, depth + 1);
+        }
         parentEl.appendChild(files);
         // keep the active file's ancestors expanded
         if (activeFile && node.path && activeFile.startsWith(node.path + '/')) {

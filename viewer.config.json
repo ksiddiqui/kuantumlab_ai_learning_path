@@ -3,10 +3,6 @@
   "contentRoot": ".",
   "defaultFile": "learning-path/index.md",
   "exclude": [
-    ".git",
-    ".github",
-    ".gitignore",
-    ".nojekyll",
     "node_modules",
     "viewer-engine",
     "index.html",
