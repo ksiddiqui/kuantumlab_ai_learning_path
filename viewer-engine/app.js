@@ -133,6 +133,15 @@ function buildTreeNodes(node, parentEl, depth) {
 function renderTabs() {
     const bar = el('tabs-bar');
     bar.innerHTML = '';
+    // close-all pinned at the far left of the tab strip
+    const closeAll = document.createElement('button');
+    closeAll.className = 'close-all-btn';
+    closeAll.id = 'close-all-btn';
+    closeAll.title = openTabs.length ? 'Close all open tabs' : 'No open tabs';
+    closeAll.textContent = '✕ Close All';
+    closeAll.disabled = !openTabs.length;
+    closeAll.onclick = closeAllTabs;
+    bar.appendChild(closeAll);
     openTabs.forEach(f => {
         const t = document.createElement('div');
         t.className = 'tab' + (f === activeFile ? ' active' : '');
@@ -141,7 +150,6 @@ function renderTabs() {
         bar.appendChild(t);
     });
 }
-
 // ---------- gutter / status ----------
 function renderGutter(lineCount) {
     let html = '';
